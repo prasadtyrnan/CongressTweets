@@ -1,0 +1,104 @@
+:START_ID(Tweet),:END_ID(Cities-ca),:TYPE,Specification
+37,Dallas,references,Dallas
+389,Philadelphia,references,Philadelphia
+429,Berlin,references,Berlin
+505,San Antonio,references,San Antonio
+609,New Orleans,references,New Orleans
+623,New Orleans,references,New Orleans
+672,San Antonio,references,San Antonio
+678,San Antonio,references,San Antonio
+682,Houston,references,Houston
+683,San Antonio,references,San Antonio
+693,San Antonio,references,San Antonio
+826,Philadelphia,references,Philadelphia
+968,London,references,london
+973,London,references,london
+974,London,references,london
+987,Berlin,references,Berlin
+1019,Miami,references,Miami
+1050,Chicago,references,Chicago
+1385,Philadelphia,references,Philadelphia
+1398,Philadelphia,references,Philadelphia
+1408,Philadelphia,references,Philadelphia
+1412,Philadelphia,references,Philadelphia
+1419,Philadelphia,references,Philadelphia
+1431,Philadelphia,references,Philadelphia
+1434,Philadelphia,references,Philadelphia
+1436,Philadelphia,references,Philadelphia
+1437,Philadelphia,references,Philadelphia
+1452,Philadelphia,references,Philadelphia
+1743,San Antonio,references,San Antonio
+1746,San Antonio,references,San Antonio
+1821,Berlin,references,Berlin
+1883,Philadelphia,references,Philadelphia
+2005,Berlin,references,Berlin
+2009,Dallas,references,Dallas
+2009,Philadelphia,references,Philadelphia
+2150,Houston,references,Houston
+2157,Houston,references,Houston
+2173,San Diego,references,San Diego
+2176,San Diego,references,San Diego
+2177,San Diego,references,San Diego
+2184,San Diego,references,San Diego
+2193,Seattle,references,Seattle
+2343,Dublin,references,Dublin
+2427,Berlin,references,Berlin
+2562,Jacksonville,references,Jacksonville
+2581,Las Vegas,references,Las Vegas
+2633,Los Angeles,references,Los Angeles
+2635,Los Angeles,references,Los Angeles
+2965,Boston,references,Boston
+3158,San Antonio,references,San Antonio
+3158,Dallas,references,Dallas
+3158,Houston,references,Houston
+3160,San Antonio,references,San Antonio
+3160,Dallas,references,Dallas
+3160,Houston,references,Houston
+3292,San Jose,references,San Jose
+3303,Manchester,references,Manchester
+3452,San Diego,references,San Diego
+3454,San Diego,references,San Diego
+3497,Boston,references,Boston
+3502,Boston,references,Boston
+3515,Boston,references,Boston
+3558,Philadelphia,references,Philadelphia
+3640,Philadelphia,references,Philadelphia
+3917,London,references,london
+4038,Berlin,references,Berlin
+4083,Miami,references,Miami
+4107,Philadelphia,references,Philadelphia
+4191,Las Vegas,references,Las Vegas
+4194,Las Vegas,references,Las Vegas
+4202,Berlin,references,Berlin
+4247,Los Angeles,references,Los Angeles
+4264,New York City,references,New York City
+4266,Berlin,references,Berlin
+4312,San Francisco,references,San Francisco
+4336,Fort Worth,references,Fort Worth
+4384,Berlin,references,Berlin
+4413,Atlanta,references,Atlanta
+4417,Atlanta,references,Atlanta
+4420,Atlanta,references,Atlanta
+4431,Atlanta,references,Atlanta
+4451,Miami,references,Miami
+4674,Philadelphia,references,Philadelphia
+4678,Philadelphia,references,Philadelphia
+4703,Miami,references,Miami
+4731,Miami,references,Miami
+4806,Atlanta,references,Atlanta
+4811,Columbus,references,Columbus
+4859,Berlin,references,Berlin
+5083,Berlin,references,Berlin
+5313,Berlin,references,Berlin
+5408,Las Vegas,references,Las Vegas
+5409,Las Vegas,references,Las Vegas
+5413,Las Vegas,references,Las Vegas
+5416,Las Vegas,references,Las Vegas
+5420,Las Vegas,references,Las Vegas
+5656,Miami,references,Miami
+5791,Chicago,references,Chicago
+5811,Houston,references,Houston
+5814,Houston,references,Houston
+5839,Miami,references,Miami
+5946,Seattle,references,Seattle
+5962,Seattle,references,Seattle

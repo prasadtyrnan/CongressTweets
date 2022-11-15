@@ -1,0 +1,493 @@
+:START_ID(Tweet),:END_ID(Interests and Hobbies-ca),:TYPE,Specification
+19,Jobs,references,
+23,Inflation,references,
+27,Inflation,references,
+38,Inflation,references,
+62,Insurance,references,Insurance
+62,Inflation,references,
+114,Inflation,references,
+154,Insurance,references,Insurance
+154,Inflation,references,
+167,Mortgage,references,Mortgage
+167,Inflation,references,
+167,Mortgage Rates,references,
+192,CPI - Consumer Price Index,references,
+192,Inflation,references,
+196,Inflation,references,
+197,Inflation,references,
+214,Jobs,references,
+216,Inflation,references,
+217,Inflation,references,
+218,Insurance,references,Insurance
+218,Inflation,references,
+218,Taxes,references,
+234,Inflation,references,
+253,Inflation,references,
+277,Inflation,references,
+288,Inflation,references,
+339,CPI - Consumer Price Index,references,
+339,Inflation,references,
+348,Inflation,references,
+353,Inflation,references,
+360,Inflation,references,
+362,Inflation,references,
+383,Community Health Centers,references,Community Health Centers
+398,Taxes,references,
+398,Tax planning,references,Tax planning
+404,Inflation,references,
+434,Insurance,references,Insurance
+445,Inflation,references,
+474,Inflation,references,
+481,Air travel,references,Air travel
+482,Inflation,references,
+500,Stocks & indices,references,Stocks
+507,Inflation,references,
+525,Insurance,references,Insurance
+525,Inflation,references,
+542,Inflation,references,
+548,Inflation,references,
+555,Inflation,references,
+591,National parks,references,National parks
+613,Traffic,references,Traffic
+652,Inflation,references,
+654,Inflation,references,
+663,Inflation,references,
+664,Inflation,references,
+666,Inflation,references,
+681,GPS and maps,references,GPS & Maps
+809,Cuisines,references,
+813,Beer,references,Beer
+819,Inflation,references,
+821,CPI - Consumer Price Index,references,
+821,Inflation,references,
+830,Holiday Party,references,
+841,CPI - Consumer Price Index,references,
+844,Inflation,references,
+850,Inflation,references,
+854,Inflation,references,
+856,Inflation,references,
+861,Inflation,references,
+868,Inflation,references,
+869,Inflation,references,
+935,Travel Actions,references,This entity includes all conversations about travel and vacation.
+966,Common Medication,references,Common Medication
+996,Saving and finance,references,Saving and Finance
+997,Counseling and psychotherapy,references,Counseling & Psychotherapy
+1078,Inflation,references,
+1089,Inflation,references,
+1200,Inflation,references,
+1204,Inflation,references,
+1215,Inflation,references,
+1216,Inflation,references,
+1240,Taxes,references,
+1240,Tax planning,references,Tax planning
+1250,Inflation,references,
+1257,Federal Reserve,references,
+1265,Taxes,references,
+1265,Tax planning,references,Tax planning
+1272,Saving and finance,references,Saving and Finance
+1272,Financial planning,references,Financial planning
+1276,Adventure travel,references,Adventure travel
+1281,Coffee,references,Coffee
+1281,Coffee,references,Coffee
+1306,Inflation,references,
+1309,Inflation,references,
+1312,National parks,references,National parks
+1382,Inflation,references,
+1387,Common Medication,references,Common Medication
+1388,Inflation,references,
+1389,Inflation,references,
+1415,Inflation,references,
+1426,Insurance,references,Insurance
+1431,Coffee,references,Coffee
+1431,Beer,references,Beer
+1462,Inflation,references,
+1482,Mortgage,references,Mortgage
+1482,Inflation,references,
+1482,Mortgage Rates,references,
+1488,Inflation,references,
+1501,Saving and finance,references,Saving and Finance
+1501,Inflation,references,
+1501,Financial planning,references,Financial planning
+1508,Inflation,references,
+1524,Mortgage,references,Mortgage
+1524,Taxes,references,
+1524,Credit,references," debt and loans,Credit, debt and loans"
+1549,Inflation,references,
+1564,Insurance,references,Insurance
+1604,Inflation,references,
+1606,Inflation,references,
+1610,Inflation,references,
+1612,Inflation,references,
+1617,Inflation,references,
+1624,Inflation,references,
+1625,Inflation,references,
+1626,Inflation,references,
+1641,Travel Actions,references,This entity includes all conversations about travel and vacation.
+1643,Inflation,references,
+1655,Inflation,references,
+1657,Inflation,references,
+1690,Travel Actions,references,This entity includes all conversations about travel and vacation.
+1738,Inflation,references,
+1743,Liquor and spirits,references,Liquor and spirits
+1743,Whiskey,references,Whiskey
+1747,Inflation,references,
+1750,Common Medication,references,Common Medication
+1753,Beginning investing,references,Beginning investing
+1777,Inflation,references,
+1783,Water,references,Water
+1793,Saving and finance,references,Saving and Finance
+1811,Inflation,references,
+1813,Water,references,Water
+1839,Inflation,references,
+1925,Inflation,references,
+1930,Inflation,references,
+1932,Food experience,references,Conversation about eating
+1940,Inflation,references,
+1942,Inflation,references,
+1943,Inflation,references,
+1948,Inflation,references,
+1952,Inflation,references,
+1957,Inflation,references,
+1959,Inflation,references,
+1965,Hunting,references,Hunting and shooting
+1971,Inflation,references,
+1972,Inflation,references,
+1976,Inflation,references,
+1977,Inflation,references,
+1991,National parks,references,National parks
+2024,Federal Reserve,references,
+2024,Inflation,references,
+2033,Stress Management,references,Stress Management
+2048,Inflation,references,
+2051,GDP - Gross Domestic Product,references,
+2083,Inflation,references,
+2084,Common Medication,references,Common Medication
+2097,Inflation,references,
+2102,Insurance,references,Insurance
+2123,Jobs,references,
+2139,Inflation,references,
+2196,Inflation,references,
+2246,Food Blogs,references,Food Blogs
+2277,Inflation,references,
+2291,Mortgage,references,Mortgage
+2291,Mortgage Rates,references,
+2298,Inflation,references,
+2299,Saving and finance,references,Saving and Finance
+2300,Inflation,references,
+2301,Mortgage,references,Mortgage
+2301,Inflation,references,
+2301,Mortgage Rates,references,
+2302,Mortgage,references,Mortgage
+2302,Inflation,references,
+2302,Mortgage Rates,references,
+2303,Mortgage,references,Mortgage
+2303,Inflation,references,
+2303,Mortgage Rates,references,
+2346,Food experience,references,Conversation about eating
+2355,Inflation,references,
+2367,Inflation,references,
+2379,Water,references,Water
+2402,Inflation,references,
+2426,Inflation,references,
+2429,Inflation,references,
+2440,Inflation,references,
+2465,Inflation,references,
+2484,Inflation,references,
+2488,Inflation,references,
+2497,Inflation,references,
+2518,Inflation,references,
+2596,Coffee,references,Coffee
+2603,Inflation,references,
+2605,Inflation,references,
+2630,Fitness Blogs,references,Fitness Blogs
+2634,Fitness Blogs,references,Fitness Blogs
+2639,Insurance,references,Insurance
+2639,Inflation,references,
+2645,Inflation,references,
+2662,Inflation,references,
+2674,CPI - Consumer Price Index,references,
+2674,Inflation,references,
+2675,CPI - Consumer Price Index,references,
+2675,Inflation,references,
+2680,Inflation,references,
+2696,CPI - Consumer Price Index,references,
+2696,Inflation,references,
+2700,CPI - Consumer Price Index,references,
+2700,Inflation,references,
+2717,Insurance,references,Insurance
+2730,CPI - Consumer Price Index,references,
+2730,Inflation,references,
+2733,Inflation,references,
+2740,Insurance,references,Insurance
+2741,Insurance,references,Insurance
+2743,Inflation,references,
+2747,Jobs,references,
+2748,Jobs,references,
+2751,Inflation,references,
+2758,Common Medication,references,Common Medication
+2759,Common Medication,references,Common Medication
+2788,GPS and maps,references,GPS & Maps
+2813,Federal Reserve,references,
+2813,Inflation,references,
+2817,Common Medication,references,Common Medication
+2827,Food experience,references,Conversation about eating
+2841,Credit,references," debt and loans,Credit, debt and loans"
+2846,Saving and finance,references,Saving and Finance
+2848,Insurance,references,Insurance
+2851,Inflation,references,
+2867,Inflation,references,
+2871,Inflation,references,
+2875,Inflation,references,
+2876,Inflation,references,
+2907,Inflation,references,
+2918,National parks,references,National parks
+2947,Food experience,references,Conversation about eating
+2951,Inflation,references,
+2956,Inflation,references,
+2961,Coffee,references,Coffee
+2966,Inflation,references,
+2997,Inflation,references,
+2997,Taxes,references,
+3005,Inflation,references,
+3032,Inflation,references,
+3037,Inflation,references,
+3041,Inflation,references,
+3055,Inflation,references,
+3057,Jobs,references,
+3057,Taxes,references,
+3063,Coffee,references,Coffee
+3080,GDP - Gross Domestic Product,references,
+3087,Inflation,references,
+3099,Insurance,references,Insurance
+3114,Dining Out,references,Dining Out
+3119,Traffic,references,Traffic
+3143,Inflation,references,
+3165,CPI - Consumer Price Index,references,
+3170,Inflation,references,
+3172,Inflation,references,
+3183,Traffic,references,Traffic
+3187,Insurance,references,Insurance
+3187,Inflation,references,
+3190,Traffic,references,Traffic
+3204,National parks,references,National parks
+3222,Inflation,references,
+3224,Coffee,references,Coffee
+3225,Inflation,references,
+3254,Inflation,references,
+3263,Inflation,references,
+3265,Saving and finance,references,Saving and Finance
+3265,Financial planning,references,Financial planning
+3273,Water,references,Water
+3290,Water,references,Water
+3290,Drink Experience,references,Drink Experience
+3292,Organic foods,references,Food
+3301,Jobs,references,
+3314,National parks,references,National parks
+3318,Taxes,references,
+3318,Tax planning,references,Tax planning
+3319,Taxes,references,
+3320,Inflation,references,
+3332,Taxes,references,
+3351,Taxes,references,
+3376,Inflation,references,
+3383,Inflation,references,
+3386,Insurance,references,Insurance
+3399,Financial planning,references,Financial planning
+3422,Inflation,references,
+3463,Beer,references,Beer
+3489,Inflation,references,
+3495,Water,references,Water
+3495,Drink Experience,references,Drink Experience
+3582,Financial planning,references,Financial planning
+3590,Inflation,references,
+3603,Inflation,references,
+3619,Inflation,references,
+3656,Sunscreen,references,Sunscreen
+3665,Cooking,references,Cooking Actions
+3686,Insurance,references,Insurance
+3686,Inflation,references,
+3696,Coffee,references,Coffee
+3710,Inflation,references,
+3742,Coffee,references,Coffee
+3742,Coffee,references,Coffee
+3766,Financial Literacy,references,
+3768,Food experience,references,Conversation about eating
+3773,Inflation,references,
+3777,Inflation,references,
+3796,Inflation,references,
+3798,National parks,references,National parks
+3819,Insurance,references,Insurance
+3825,Commodities,references,
+3846,Insurance,references,Insurance
+3846,Inflation,references,
+3847,Inflation,references,
+3854,Stocks & indices,references,Stocks
+3862,Inflation,references,
+3863,Inflation,references,
+3864,Inflation,references,
+3865,Inflation,references,
+3869,Inflation,references,
+3870,Inflation,references,
+3871,Inflation,references,
+3877,Inflation,references,
+3883,Inflation,references,
+3931,Inflation,references,
+3937,Inflation,references,
+3940,Inflation,references,
+3962,Inflation,references,
+3970,Inflation,references,
+3971,Inflation,references,
+3982,Inflation,references,
+3988,Inflation,references,
+4005,Inflation,references,
+4014,Online Marketing,references,Online Marketing
+4041,Drink Experience,references,Drink Experience
+4042,Inflation,references,
+4077,Beer,references,Beer
+4099,Inflation,references,
+4128,Inflation,references,
+4134,Common Medication,references,Common Medication
+4147,Wine,references,Wine
+4155,Saving and finance,references,Saving and Finance
+4155,Inflation,references,
+4156,Inflation,references,
+4157,Counseling and psychotherapy,references,Counseling & Psychotherapy
+4161,Insurance,references,Insurance
+4167,Wine,references,Wine
+4175,Inflation,references,
+4177,Inflation,references,
+4183,Inflation,references,
+4206,Inflation,references,
+4217,Water,references,Water
+4217,Drink Experience,references,Drink Experience
+4239,Common Medication,references,Common Medication
+4262,Inflation,references,
+4314,Inflation,references,
+4343,Inflation,references,
+4387,Inflation,references,
+4392,Inflation,references,
+4394,Inflation,references,
+4440,Inflation,references,
+4491,National parks,references,National parks
+4499,Inflation,references,
+4517,Mortgage,references,Mortgage
+4517,Inflation,references,
+4517,Mortgage Rates,references,
+4540,Insurance,references,Insurance
+4550,Inflation,references,
+4564,Inflation,references,
+4566,Common Medication,references,Common Medication
+4583,Common Medication,references,Common Medication
+4609,Cuisines,references,
+4611,Traffic,references,Traffic
+4618,Inflation,references,
+4662,National parks,references,National parks
+4670,CPI - Consumer Price Index,references,
+4670,Inflation,references,
+4708,Inflation,references,
+4717,Inflation,references,
+4806,Beer,references,Beer
+4820,Beer,references,Beer
+4837,National parks,references,National parks
+4854,Food experience,references,Conversation about eating
+4867,Federal Reserve,references,
+4868,Inflation,references,
+4878,Inflation,references,
+4880,Inflation,references,
+4895,Inflation,references,
+4901,Inflation,references,
+4902,Inflation,references,
+4910,Food experience,references,Conversation about eating
+4914,Inflation,references,
+4922,Insurance,references,Insurance
+4928,Inflation,references,
+4940,Cuisines,references,
+4993,Inflation,references,
+5015,Inflation,references,
+5021,Credit,references," debt and loans,Credit, debt and loans"
+5033,Inflation,references,
+5041,Inflation,references,
+5043,Inflation,references,
+5044,Inflation,references,
+5046,Saving and finance,references,Saving and Finance
+5048,Inflation,references,
+5051,National parks,references,National parks
+5081,CPI - Consumer Price Index,references,
+5081,Inflation,references,
+5088,Inflation,references,
+5097,Inflation,references,
+5107,Commodities,references,
+5166,Inflation,references,
+5174,Inflation,references,
+5203,Inflation,references,
+5216,Inflation,references,
+5230,Food experience,references,Conversation about eating
+5235,National parks,references,National parks
+5236,National parks,references,National parks
+5263,Inflation,references,
+5282,Inflation,references,
+5285,Inflation,references,
+5285,Taxes,references,
+5298,Travel Actions,references,This entity includes all conversations about travel and vacation.
+5299,Inflation,references,
+5303,National parks,references,National parks
+5306,Insurance,references,Insurance
+5318,Insurance,references,Insurance
+5330,Taxes,references,
+5368,Inflation,references,
+5376,Inflation,references,
+5406,Jobs,references,
+5423,Common Medication,references,Common Medication
+5439,Inflation,references,
+5451,Inflation,references,
+5455,Inflation,references,
+5481,National parks,references,National parks
+5486,Counseling and psychotherapy,references,Counseling & Psychotherapy
+5510,Inflation,references,
+5544,Saving and finance,references,Saving and Finance
+5555,Jobs,references,
+5572,Taxes,references,
+5572,Tax planning,references,Tax planning
+5608,Inflation,references,
+5629,Stocks & indices,references,Stocks
+5635,Soda,references,Soda
+5652,Inflation,references,
+5672,Inflation,references,
+5705,Common Medication,references,Common Medication
+5717,Food experience,references,Conversation about eating
+5736,Inflation,references,
+5743,Federal Reserve,references,
+5743,Inflation,references,
+5746,Inflation,references,
+5747,Inflation,references,
+5749,Mortgage,references,Mortgage
+5749,Taxes,references,
+5749,Credit,references," debt and loans,Credit, debt and loans"
+5753,Inflation,references,
+5754,Inflation,references,
+5755,Inflation,references,
+5759,Inflation,references,
+5760,Inflation,references,
+5817,Inflation,references,
+5818,Inflation,references,
+5848,National parks,references,National parks
+5856,Inflation,references,
+5864,Inflation,references,
+5865,Inflation,references,
+5868,Stocks & indices,references,Stocks
+5869,Inflation,references,
+5870,Inflation,references,
+5882,Inflation,references,
+5896,Coffee,references,Coffee
+5896,Coffee,references,Coffee
+5931,National parks,references,National parks
+5959,Inflation,references,
+5967,Inflation,references,
+5990,Inflation,references,
+5996,Inflation,references,
+6000,National parks,references,National parks
+6004,Inflation,references,
+6006,Inflation,references,
+6010,National parks,references,National parks
+6031,Inflation,references,

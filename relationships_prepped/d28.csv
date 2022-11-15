@@ -1,0 +1,840 @@
+:START_ID(Tweet),:END_ID(Political Body-ca),:TYPE,Specification
+13,United States Coast Guard,references,United States Coast Guard
+73,US Military,references,US Military
+111,United States Congress,references,United States Congress
+113,United States Congress,references,United States Congress
+113,United States House of Representatives,references,United States House of Representatives
+114,United States Congress,references,United States Congress
+115,United States Congress,references,United States Congress
+115,United States House of Representatives,references,United States House of Representatives
+133,United States Congress,references,United States Congress
+133,United States House of Representatives,references,United States House of Representatives
+135,United States Congress,references,United States Congress
+135,United States House of Representatives,references,United States House of Representatives
+139,United States Congress,references,United States Congress
+141,US Environmental Protection Agency,references,US Environmental Protection Agency
+141,US Environmental Protection Agency,references,US Environmental Protection Agency
+160,United States Congress,references,United States Congress
+165,United States Congress,references,United States Congress
+165,United States House of Representatives,references,United States House of Representatives
+168,United States Congress,references,United States Congress
+168,United States House of Representatives,references,United States House of Representatives
+187,The White House,references,"Conversation from and about the White House, both as a destination and as political voice"
+205,The White House,references,"Conversation from and about the White House, both as a destination and as political voice"
+206,United States Congress,references,United States Congress
+206,United States Senate,references,United States Senate
+206,United States House of Representatives,references,United States House of Representatives
+206,United States Congress,references,United States Congress
+225,United States Congress,references,United States Congress
+232,United States Congress,references,United States Congress
+232,United States House of Representatives,references,United States House of Representatives
+233,The White House,references,"Conversation from and about the White House, both as a destination and as political voice"
+234,United States Congress,references,United States Congress
+234,The White House,references,"Conversation from and about the White House, both as a destination and as political voice"
+235,United States Congress,references,United States Congress
+235,United States Senate,references,United States Senate
+235,United States Congress,references,United States Congress
+242,United States Congress,references,United States Congress
+242,The White House,references,"Conversation from and about the White House, both as a destination and as political voice"
+243,United States Congress,references,United States Congress
+245,United States Congress,references,United States Congress
+248,United States Congress,references,United States Congress
+248,United States House of Representatives,references,United States House of Representatives
+250,United States Congress,references,United States Congress
+250,United States House of Representatives,references,United States House of Representatives
+251,United States Congress,references,United States Congress
+251,United States House of Representatives,references,United States House of Representatives
+253,United States Congress,references,United States Congress
+253,United States House of Representatives,references,United States House of Representatives
+255,United States Congress,references,United States Congress
+269,United States Congress,references,United States Congress
+269,United States House of Representatives,references,United States House of Representatives
+270,United States Congress,references,United States Congress
+270,United States House of Representatives,references,United States House of Representatives
+291,Federal Bureau of Investigation,references,All conversation about the United States Federal Bureau of Investigation
+299,United States Congress,references,United States Congress
+338,US Department of State,references,US Department of State
+374,US Environmental Protection Agency,references,US Environmental Protection Agency
+401,The White House,references,"Conversation from and about the White House, both as a destination and as political voice"
+405,The White House,references,"Conversation from and about the White House, both as a destination and as political voice"
+405,United States Senate,references,United States Senate
+405,United States House of Representatives,references,United States House of Representatives
+405,United States Congress,references,United States Congress
+410,United States Congress,references,United States Congress
+410,US Military,references,US Military
+416,United States Congress,references,United States Congress
+416,US Military,references,US Military
+425,United States Congress,references,United States Congress
+435,United States Congress,references,United States Congress
+435,United States House of Representatives,references,United States House of Representatives
+444,United States Congress,references,United States Congress
+444,US Military,references,US Military
+445,United States Congress,references,United States Congress
+451,United States Congress,references,United States Congress
+451,United States House of Representatives,references,United States House of Representatives
+458,United States Congress,references,United States Congress
+477,United States Congress,references,United States Congress
+500,United States Congress,references,United States Congress
+500,United States House of Representatives,references,United States House of Representatives
+502,United States Congress,references,United States Congress
+529,United States Congress,references,United States Congress
+529,United States House of Representatives,references,United States House of Representatives
+542,United States Congress,references,United States Congress
+542,United States House of Representatives,references,United States House of Representatives
+566,United States Congress,references,United States Congress
+602,United States Congress,references,United States Congress
+602,United States House of Representatives,references,United States House of Representatives
+615,United States Congress,references,United States Congress
+643,US Environmental Protection Agency,references,US Environmental Protection Agency
+651,United States Congress,references,United States Congress
+652,United States Congress,references,United States Congress
+652,United States House of Representatives,references,United States House of Representatives
+663,United States Congress,references,United States Congress
+663,The White House,references,"Conversation from and about the White House, both as a destination and as political voice"
+664,United States Congress,references,United States Congress
+665,United States Congress,references,United States Congress
+665,The White House,references,"Conversation from and about the White House, both as a destination and as political voice"
+666,The White House,references,"Conversation from and about the White House, both as a destination and as political voice"
+667,United States Congress,references,United States Congress
+667,The White House,references,"Conversation from and about the White House, both as a destination and as political voice"
+668,The White House,references,"Conversation from and about the White House, both as a destination and as political voice"
+669,United States Congress,references,United States Congress
+669,The White House,references,"Conversation from and about the White House, both as a destination and as political voice"
+683,Supreme Court of the United States,references,Conversation about the Supreme Court and justices
+683,Supreme Court of the United States,references,Conversation about the Supreme Court and justices
+705,Federal Bureau of Investigation,references,All conversation about the United States Federal Bureau of Investigation
+776,United States Congress,references,United States Congress
+779,United States Congress,references,United States Congress
+797,United States Congress,references,United States Congress
+797,The White House,references,"Conversation from and about the White House, both as a destination and as political voice"
+835,United States Congress,references,United States Congress
+835,United States House of Representatives,references,United States House of Representatives
+836,United States Congress,references,United States Congress
+836,United States House of Representatives,references,United States House of Representatives
+860,United States Congress,references,United States Congress
+860,The White House,references,"Conversation from and about the White House, both as a destination and as political voice"
+861,United States Congress,references,United States Congress
+868,United States Congress,references,United States Congress
+887,United States Congress,references,United States Congress
+890,North Atlantic Treaty Organization,references,North Atlantic Treaty Organization
+890,United Nations,references,Global conversation about the United Nations and all related efforts.
+893,United States Congress,references,United States Congress
+893,Supreme Court of the United States,references,Conversation about the Supreme Court and justices
+910,United States Congress,references,United States Congress
+911,United States Congress,references,United States Congress
+912,United States Congress,references,United States Congress
+917,United States Congress,references,United States Congress
+917,United States House of Representatives,references,United States House of Representatives
+921,United States Congress,references,United States Congress
+921,United States House of Representatives,references,United States House of Representatives
+924,United States Congress,references,United States Congress
+926,United States Congress,references,United States Congress
+931,United States Congress,references,United States Congress
+943,United States Congress,references,United States Congress
+949,United States Congress,references,United States Congress
+960,United States Congress,references,United States Congress
+982,United States Congress,references,United States Congress
+984,US Department of the Treasury,references,US Department of the Treasury
+995,United States Congress,references,United States Congress
+1031,The White House,references,"Conversation from and about the White House, both as a destination and as political voice"
+1055,United States Congress,references,United States Congress
+1055,United States House of Representatives,references,United States House of Representatives
+1067,United States Congress,references,United States Congress
+1067,United States Senate,references,United States Senate
+1067,United States House of Representatives,references,United States House of Representatives
+1067,United States Congress,references,United States Congress
+1078,The White House,references,"Conversation from and about the White House, both as a destination and as political voice"
+1130,The White House,references,"Conversation from and about the White House, both as a destination and as political voice"
+1143,United States Congress,references,United States Congress
+1160,United States Congress,references,United States Congress
+1175,United States Congress,references,United States Congress
+1176,United States Congress,references,United States Congress
+1180,United States Congress,references,United States Congress
+1181,United States Congress,references,United States Congress
+1181,United States House of Representatives,references,United States House of Representatives
+1192,United States Congress,references,United States Congress
+1192,United States House of Representatives,references,United States House of Representatives
+1194,US Military,references,US Military
+1196,United States Congress,references,United States Congress
+1196,United States House of Representatives,references,United States House of Representatives
+1197,United States Congress,references,United States Congress
+1197,United States House of Representatives,references,United States House of Representatives
+1201,United States Congress,references,United States Congress
+1207,The White House,references,"Conversation from and about the White House, both as a destination and as political voice"
+1221,US Environmental Protection Agency,references,US Environmental Protection Agency
+1223,US Environmental Protection Agency,references,US Environmental Protection Agency
+1224,US Environmental Protection Agency,references,US Environmental Protection Agency
+1224,US Environmental Protection Agency,references,US Environmental Protection Agency
+1234,The White House,references,"Conversation from and about the White House, both as a destination and as political voice"
+1240,United States Congress,references,United States Congress
+1250,US Environmental Protection Agency,references,US Environmental Protection Agency
+1257,Federal Reserve,references,
+1259,US Environmental Protection Agency,references,US Environmental Protection Agency
+1260,US Environmental Protection Agency,references,US Environmental Protection Agency
+1275,US Environmental Protection Agency,references,US Environmental Protection Agency
+1282,The White House,references,"Conversation from and about the White House, both as a destination and as political voice"
+1301,United States Congress,references,United States Congress
+1301,United States House of Representatives,references,United States House of Representatives
+1305,United States Congress,references,United States Congress
+1305,United States House of Representatives,references,United States House of Representatives
+1308,United States Congress,references,United States Congress
+1308,United States House of Representatives,references,United States House of Representatives
+1321,The White House,references,"Conversation from and about the White House, both as a destination and as political voice"
+1327,United States Congress,references,United States Congress
+1335,United Nations,references,Global conversation about the United Nations and all related efforts.
+1338,United States Congress,references,United States Congress
+1339,United States Congress,references,United States Congress
+1352,United States Congress,references,United States Congress
+1358,United States Congress,references,United States Congress
+1358,The White House,references,"Conversation from and about the White House, both as a destination and as political voice"
+1378,The White House,references,"Conversation from and about the White House, both as a destination and as political voice"
+1380,United States Congress,references,United States Congress
+1380,United States House of Representatives,references,United States House of Representatives
+1386,The White House,references,"Conversation from and about the White House, both as a destination and as political voice"
+1387,The White House,references,"Conversation from and about the White House, both as a destination and as political voice"
+1388,The White House,references,"Conversation from and about the White House, both as a destination and as political voice"
+1389,The White House,references,"Conversation from and about the White House, both as a destination and as political voice"
+1424,United States Congress,references,United States Congress
+1424,United States Senate,references,United States Senate
+1424,United States House of Representatives,references,United States House of Representatives
+1424,United States Congress,references,United States Congress
+1432,United States Congress,references,United States Congress
+1458,Republican National Committee,references,US Republican National Committee
+1461,The White House,references,"Conversation from and about the White House, both as a destination and as political voice"
+1462,United States Congress,references,United States Congress
+1462,The White House,references,"Conversation from and about the White House, both as a destination and as political voice"
+1473,United States Congress,references,United States Congress
+1485,United States Congress,references,United States Congress
+1488,United States Congress,references,United States Congress
+1500,United States Congress,references,United States Congress
+1500,United States House of Representatives,references,United States House of Representatives
+1505,United States Congress,references,United States Congress
+1523,United States Congress,references,United States Congress
+1523,United States House of Representatives,references,United States House of Representatives
+1525,United States Congress,references,United States Congress
+1525,United States House of Representatives,references,United States House of Representatives
+1526,United States Congress,references,United States Congress
+1526,United States House of Representatives,references,United States House of Representatives
+1535,United States Congress,references,United States Congress
+1535,United States House of Representatives,references,United States House of Representatives
+1542,United States Congress,references,United States Congress
+1542,United States House of Representatives,references,United States House of Representatives
+1544,United States Congress,references,United States Congress
+1544,United States House of Representatives,references,United States House of Representatives
+1555,United States Congress,references,United States Congress
+1555,United States House of Representatives,references,United States House of Representatives
+1576,United States Congress,references,United States Congress
+1577,United States Congress,references,United States Congress
+1580,United States Congress,references,United States Congress
+1581,United States Congress,references,United States Congress
+1581,United States House of Representatives,references,United States House of Representatives
+1602,United States Congress,references,United States Congress
+1602,United States House of Representatives,references,United States House of Representatives
+1612,United States Congress,references,United States Congress
+1612,United States House of Representatives,references,United States House of Representatives
+1614,United States Congress,references,United States Congress
+1619,United States Congress,references,United States Congress
+1619,United States House of Representatives,references,United States House of Representatives
+1622,United States Congress,references,United States Congress
+1622,United States House of Representatives,references,United States House of Representatives
+1623,United States Congress,references,United States Congress
+1623,United States House of Representatives,references,United States House of Representatives
+1624,United States Congress,references,United States Congress
+1624,United States House of Representatives,references,United States House of Representatives
+1626,United States Congress,references,United States Congress
+1626,United States House of Representatives,references,United States House of Representatives
+1627,United States Congress,references,United States Congress
+1627,United States House of Representatives,references,United States House of Representatives
+1641,United States Congress,references,United States Congress
+1667,United States Congress,references,United States Congress
+1672,United States Congress,references,United States Congress
+1673,United States Congress,references,United States Congress
+1680,United States Congress,references,United States Congress
+1682,United States Congress,references,United States Congress
+1708,United States Congress,references,United States Congress
+1708,United States House of Representatives,references,United States House of Representatives
+1726,United States Congress,references,United States Congress
+1726,United States House of Representatives,references,United States House of Representatives
+1735,United States Congress,references,United States Congress
+1737,United States Congress,references,United States Congress
+1737,United States House of Representatives,references,United States House of Representatives
+1739,United States Congress,references,United States Congress
+1739,United States House of Representatives,references,United States House of Representatives
+1741,United States Congress,references,United States Congress
+1741,United States House of Representatives,references,United States House of Representatives
+1744,United States Congress,references,United States Congress
+1744,United States House of Representatives,references,United States House of Representatives
+1759,United States Congress,references,United States Congress
+1801,Federal Bureau of Investigation,references,All conversation about the United States Federal Bureau of Investigation
+1810,United Nations,references,Global conversation about the United Nations and all related efforts.
+1832,United States Congress,references,United States Congress
+1836,Supreme Court of the United States,references,Conversation about the Supreme Court and justices
+1861,United States Congress,references,United States Congress
+1861,United States Senate,references,United States Senate
+1861,United States House of Representatives,references,United States House of Representatives
+1861,United States Congress,references,United States Congress
+1868,United States Congress,references,United States Congress
+1899,The White House,references,"Conversation from and about the White House, both as a destination and as political voice"
+1905,United States Congress,references,United States Congress
+1906,United States Congress,references,United States Congress
+1925,United States Congress,references,United States Congress
+1930,United States Congress,references,United States Congress
+1942,United States Congress,references,United States Congress
+1942,United States House of Representatives,references,United States House of Representatives
+1960,United States Congress,references,United States Congress
+1966,United States Congress,references,United States Congress
+1966,United States House of Representatives,references,United States House of Representatives
+1976,United States Congress,references,United States Congress
+1976,United States House of Representatives,references,United States House of Representatives
+1979,United States Congress,references,United States Congress
+1991,US Military,references,US Military
+2014,United States Congress,references,United States Congress
+2014,United States House of Representatives,references,United States House of Representatives
+2024,Federal Reserve,references,
+2040,United States Congress,references,United States Congress
+2040,United States House of Representatives,references,United States House of Representatives
+2076,United States Congress,references,United States Congress
+2081,United States Congress,references,United States Congress
+2085,United States Congress,references,United States Congress
+2086,Federal Bureau of Investigation,references,All conversation about the United States Federal Bureau of Investigation
+2097,United States Congress,references,United States Congress
+2097,United States House of Representatives,references,United States House of Representatives
+2100,United States Congress,references,United States Congress
+2100,United States House of Representatives,references,United States House of Representatives
+2109,United States Congress,references,United States Congress
+2109,United States House of Representatives,references,United States House of Representatives
+2132,US Military,references,US Military
+2144,United States Congress,references,United States Congress
+2154,The White House,references,"Conversation from and about the White House, both as a destination and as political voice"
+2186,United States Congress,references,United States Congress
+2237,United States Congress,references,United States Congress
+2237,United States House of Representatives,references,United States House of Representatives
+2238,United States Congress,references,United States Congress
+2238,United States House of Representatives,references,United States House of Representatives
+2244,United States Congress,references,United States Congress
+2268,United States Congress,references,United States Congress
+2339,United States Congress,references,United States Congress
+2342,United States Congress,references,United States Congress
+2353,United States Congress,references,United States Congress
+2355,United States Congress,references,United States Congress
+2355,United States House of Representatives,references,United States House of Representatives
+2356,United States Congress,references,United States Congress
+2356,United States House of Representatives,references,United States House of Representatives
+2386,United States Congress,references,United States Congress
+2413,United States Congress,references,United States Congress
+2446,United States Congress,references,United States Congress
+2466,United States Secret Service,references,United States Secret Service
+2468,United States Congress,references,United States Congress
+2484,United States Congress,references,United States Congress
+2484,United States House of Representatives,references,United States House of Representatives
+2485,United States Congress,references,United States Congress
+2485,United States House of Representatives,references,United States House of Representatives
+2505,United States Congress,references,United States Congress
+2518,United States Congress,references,United States Congress
+2518,United States House of Representatives,references,United States House of Representatives
+2545,United States Congress,references,United States Congress
+2545,United States House of Representatives,references,United States House of Representatives
+2546,United States Congress,references,United States Congress
+2546,United States House of Representatives,references,United States House of Representatives
+2547,United States Congress,references,United States Congress
+2547,United States House of Representatives,references,United States House of Representatives
+2570,United States Congress,references,United States Congress
+2570,United States House of Representatives,references,United States House of Representatives
+2584,United States Congress,references,United States Congress
+2587,United States Congress,references,United States Congress
+2591,United States Congress,references,United States Congress
+2594,United States Air Force,references,United States Air Force
+2594,United States Congress,references,United States Congress
+2600,United States Congress,references,United States Congress
+2600,United States House of Representatives,references,United States House of Representatives
+2601,United States Congress,references,United States Congress
+2601,United States House of Representatives,references,United States House of Representatives
+2602,United States Congress,references,United States Congress
+2602,United States House of Representatives,references,United States House of Representatives
+2603,United States Congress,references,United States Congress
+2603,United States House of Representatives,references,United States House of Representatives
+2604,United States Congress,references,United States Congress
+2604,United States House of Representatives,references,United States House of Representatives
+2605,United States Congress,references,United States Congress
+2605,United States House of Representatives,references,United States House of Representatives
+2617,United States Congress,references,United States Congress
+2630,United States Air Force,references,United States Air Force
+2631,United States Air Force,references,United States Air Force
+2635,United States Congress,references,United States Congress
+2646,United States Congress,references,United States Congress
+2646,United States House of Representatives,references,United States House of Representatives
+2648,United States Congress,references,United States Congress
+2648,United States House of Representatives,references,United States House of Representatives
+2650,United States Congress,references,United States Congress
+2650,United States House of Representatives,references,United States House of Representatives
+2651,United States Congress,references,United States Congress
+2651,United States House of Representatives,references,United States House of Representatives
+2656,United States Congress,references,United States Congress
+2656,United States House of Representatives,references,United States House of Representatives
+2662,United States Congress,references,United States Congress
+2662,United States House of Representatives,references,United States House of Representatives
+2680,United States Congress,references,United States Congress
+2680,United States House of Representatives,references,United States House of Representatives
+2743,United States Congress,references,United States Congress
+2789,United States Congress,references,United States Congress
+2789,United States House of Representatives,references,United States House of Representatives
+2810,United States Congress,references,United States Congress
+2810,United States Senate,references,United States Senate
+2810,United States House of Representatives,references,United States House of Representatives
+2810,United States Congress,references,United States Congress
+2813,Federal Reserve,references,
+2819,US Department of the Treasury,references,US Department of the Treasury
+2854,United States Congress,references,United States Congress
+2854,United States House of Representatives,references,United States House of Representatives
+2857,United States Congress,references,United States Congress
+2857,United States House of Representatives,references,United States House of Representatives
+2858,United States Congress,references,United States Congress
+2858,United States House of Representatives,references,United States House of Representatives
+2859,United States Congress,references,United States Congress
+2859,United States House of Representatives,references,United States House of Representatives
+2860,United States Congress,references,United States Congress
+2860,United States House of Representatives,references,United States House of Representatives
+2862,United States Congress,references,United States Congress
+2862,United States House of Representatives,references,United States House of Representatives
+2863,United States Congress,references,United States Congress
+2863,United States House of Representatives,references,United States House of Representatives
+2864,United States Congress,references,United States Congress
+2864,United States House of Representatives,references,United States House of Representatives
+2870,United States Congress,references,United States Congress
+2870,United States House of Representatives,references,United States House of Representatives
+2873,United States Congress,references,United States Congress
+2873,United States House of Representatives,references,United States House of Representatives
+2875,United States Congress,references,United States Congress
+2875,United States House of Representatives,references,United States House of Representatives
+2876,United States Congress,references,United States Congress
+2876,United States House of Representatives,references,United States House of Representatives
+2879,United States Congress,references,United States Congress
+2879,United States House of Representatives,references,United States House of Representatives
+2887,United States Congress,references,United States Congress
+2887,United States House of Representatives,references,United States House of Representatives
+2890,United States Congress,references,United States Congress
+2892,United States Congress,references,United States Congress
+2892,United States House of Representatives,references,United States House of Representatives
+2914,United States Congress,references,United States Congress
+2914,United States House of Representatives,references,United States House of Representatives
+2923,United States Congress,references,United States Congress
+2928,United Nations,references,Global conversation about the United Nations and all related efforts.
+2941,United States Congress,references,United States Congress
+2941,United States Senate,references,United States Senate
+2941,United States House of Representatives,references,United States House of Representatives
+2941,United States Congress,references,United States Congress
+2976,US Military,references,US Military
+2982,United States Congress,references,United States Congress
+2984,The White House,references,"Conversation from and about the White House, both as a destination and as political voice"
+2985,United States Senate,references,United States Senate
+2985,United States House of Representatives,references,United States House of Representatives
+2985,United States Congress,references,United States Congress
+3005,United States Congress,references,United States Congress
+3020,United States Congress,references,United States Congress
+3020,United States House of Representatives,references,United States House of Representatives
+3031,United States Congress,references,United States Congress
+3031,United States House of Representatives,references,United States House of Representatives
+3032,United States Congress,references,United States Congress
+3032,United States House of Representatives,references,United States House of Representatives
+3042,Federal Bureau of Investigation,references,All conversation about the United States Federal Bureau of Investigation
+3047,United States Congress,references,United States Congress
+3055,United States Congress,references,United States Congress
+3082,United States Congress,references,United States Congress
+3133,United States Congress,references,United States Congress
+3141,United States Congress,references,United States Congress
+3141,United States House of Representatives,references,United States House of Representatives
+3156,Federal Bureau of Investigation,references,All conversation about the United States Federal Bureau of Investigation
+3176,United States Congress,references,United States Congress
+3182,United States Congress,references,United States Congress
+3186,United States Congress,references,United States Congress
+3187,United States Congress,references,United States Congress
+3200,United States Congress,references,United States Congress
+3203,United States Congress,references,United States Congress
+3206,United States Congress,references,United States Congress
+3206,United States House of Representatives,references,United States House of Representatives
+3214,United States Congress,references,United States Congress
+3249,US Environmental Protection Agency,references,US Environmental Protection Agency
+3250,United States Congress,references,United States Congress
+3251,United States Congress,references,United States Congress
+3267,United States Congress,references,United States Congress
+3313,Supreme Court of the United States,references,Conversation about the Supreme Court and justices
+3313,Supreme Court of the United States,references,Conversation about the Supreme Court and justices
+3318,Supreme Court of the United States,references,Conversation about the Supreme Court and justices
+3318,Supreme Court of the United States,references,Conversation about the Supreme Court and justices
+3321,United States Congress,references,United States Congress
+3332,United States Congress,references,United States Congress
+3333,United States Congress,references,United States Congress
+3334,United States Congress,references,United States Congress
+3335,United States Congress,references,United States Congress
+3336,United States Congress,references,United States Congress
+3341,United States Congress,references,United States Congress
+3342,United States Congress,references,United States Congress
+3343,United States Congress,references,United States Congress
+3344,United States Congress,references,United States Congress
+3345,United States Congress,references,United States Congress
+3346,United States Congress,references,United States Congress
+3347,United States Congress,references,United States Congress
+3348,United States Congress,references,United States Congress
+3349,United States Congress,references,United States Congress
+3350,United States Congress,references,United States Congress
+3351,United States Congress,references,United States Congress
+3352,United States Congress,references,United States Congress
+3353,United States Congress,references,United States Congress
+3354,United States Congress,references,United States Congress
+3355,United States Congress,references,United States Congress
+3356,United States Congress,references,United States Congress
+3357,United States Congress,references,United States Congress
+3358,United States Congress,references,United States Congress
+3359,United States Congress,references,United States Congress
+3360,United States Congress,references,United States Congress
+3361,United States Congress,references,United States Congress
+3362,United States Congress,references,United States Congress
+3376,United States Congress,references,United States Congress
+3378,United States Congress,references,United States Congress
+3382,United States Congress,references,United States Congress
+3383,United States Congress,references,United States Congress
+3393,United States Congress,references,United States Congress
+3395,United States Congress,references,United States Congress
+3399,United States Congress,references,United States Congress
+3399,United States House of Representatives,references,United States House of Representatives
+3400,United States Congress,references,United States Congress
+3402,United States Congress,references,United States Congress
+3405,United States Congress,references,United States Congress
+3406,United States Congress,references,United States Congress
+3419,United States Congress,references,United States Congress
+3420,United States Congress,references,United States Congress
+3445,United States Congress,references,United States Congress
+3459,United States Air Force,references,United States Air Force
+3464,United States Congress,references,United States Congress
+3464,United States House of Representatives,references,United States House of Representatives
+3466,United States Congress,references,United States Congress
+3466,United States House of Representatives,references,United States House of Representatives
+3468,United States Congress,references,United States Congress
+3468,United States House of Representatives,references,United States House of Representatives
+3469,United States Congress,references,United States Congress
+3470,United States Congress,references,United States Congress
+3475,United States Congress,references,United States Congress
+3475,United States House of Representatives,references,United States House of Representatives
+3490,United States Congress,references,United States Congress
+3560,Federal Bureau of Investigation,references,All conversation about the United States Federal Bureau of Investigation
+3561,United States Congress,references,United States Congress
+3578,United States Congress,references,United States Congress
+3578,United States House of Representatives,references,United States House of Representatives
+3581,United States Congress,references,United States Congress
+3581,United States House of Representatives,references,United States House of Representatives
+3583,United States Congress,references,United States Congress
+3583,United States House of Representatives,references,United States House of Representatives
+3601,United States Congress,references,United States Congress
+3603,United States Congress,references,United States Congress
+3603,United States House of Representatives,references,United States House of Representatives
+3619,US Environmental Protection Agency,references,US Environmental Protection Agency
+3644,United States Congress,references,United States Congress
+3644,United States House of Representatives,references,United States House of Representatives
+3666,The White House,references,"Conversation from and about the White House, both as a destination and as political voice"
+3705,Federal Bureau of Investigation,references,All conversation about the United States Federal Bureau of Investigation
+3707,United States Congress,references,United States Congress
+3707,United States House of Representatives,references,United States House of Representatives
+3709,United States Congress,references,United States Congress
+3709,United States House of Representatives,references,United States House of Representatives
+3754,US Environmental Protection Agency,references,US Environmental Protection Agency
+3762,United States Congress,references,United States Congress
+3787,US Military,references,US Military
+3794,US Military,references,US Military
+3808,United States Congress,references,United States Congress
+3822,International Space Station,references,International Space Station
+3848,United States Congress,references,United States Congress
+3848,United States House of Representatives,references,United States House of Representatives
+3856,United States Congress,references,United States Congress
+3856,United States Senate,references,United States Senate
+3856,United States Congress,references,United States Congress
+3859,The White House,references,"Conversation from and about the White House, both as a destination and as political voice"
+3861,United States Congress,references,United States Congress
+3861,United States House of Representatives,references,United States House of Representatives
+3869,United States Congress,references,United States Congress
+3870,United States Congress,references,United States Congress
+3870,United States House of Representatives,references,United States House of Representatives
+3879,United States Congress,references,United States Congress
+3879,United States House of Representatives,references,United States House of Representatives
+3925,United States Congress,references,United States Congress
+3942,United States Congress,references,United States Congress
+3942,United States Senate,references,United States Senate
+3942,United States Congress,references,United States Congress
+3960,United States Congress,references,United States Congress
+3960,United States House of Representatives,references,United States House of Representatives
+3962,United States Congress,references,United States Congress
+3962,United States House of Representatives,references,United States House of Representatives
+3968,United States Congress,references,United States Congress
+3981,United States Congress,references,United States Congress
+3981,United States House of Representatives,references,United States House of Representatives
+3982,United States Congress,references,United States Congress
+3982,United States House of Representatives,references,United States House of Representatives
+3983,United States Congress,references,United States Congress
+3983,United States House of Representatives,references,United States House of Representatives
+3992,United States Congress,references,United States Congress
+3992,United States House of Representatives,references,United States House of Representatives
+4001,United States Congress,references,United States Congress
+4002,United States Congress,references,United States Congress
+4002,United States House of Representatives,references,United States House of Representatives
+4003,United States Congress,references,United States Congress
+4003,United States House of Representatives,references,United States House of Representatives
+4018,United States Congress,references,United States Congress
+4027,Federal Bureau of Investigation,references,All conversation about the United States Federal Bureau of Investigation
+4031,United States Congress,references,United States Congress
+4031,United States House of Representatives,references,United States House of Representatives
+4037,United States Congress,references,United States Congress
+4043,United States Congress,references,United States Congress
+4043,United States House of Representatives,references,United States House of Representatives
+4079,United States Congress,references,United States Congress
+4096,United States Congress,references,United States Congress
+4097,United States Congress,references,United States Congress
+4108,Supreme Court of the United States,references,Conversation about the Supreme Court and justices
+4112,United States Congress,references,United States Congress
+4120,United States Congress,references,United States Congress
+4122,United States Congress,references,United States Congress
+4128,United States Congress,references,United States Congress
+4134,The White House,references,"Conversation from and about the White House, both as a destination and as political voice"
+4153,Supreme Court of the United States,references,Conversation about the Supreme Court and justices
+4153,Supreme Court of the United States,references,Conversation about the Supreme Court and justices
+4164,United States Congress,references,United States Congress
+4170,United States Congress,references,United States Congress
+4193,United States Air Force,references,United States Air Force
+4207,US Environmental Protection Agency,references,US Environmental Protection Agency
+4216,United States Congress,references,United States Congress
+4232,United States Congress,references,United States Congress
+4258,United States Congress,references,United States Congress
+4283,US Environmental Protection Agency,references,US Environmental Protection Agency
+4293,US Military,references,US Military
+4309,United States Postal Service,references,
+4328,United States Congress,references,United States Congress
+4328,United States Senate,references,United States Senate
+4328,United States House of Representatives,references,United States House of Representatives
+4328,United States Congress,references,United States Congress
+4329,Supreme Court of the United States,references,Conversation about the Supreme Court and justices
+4329,Supreme Court of the United States,references,Conversation about the Supreme Court and justices
+4330,United States Congress,references,United States Congress
+4356,United States Congress,references,United States Congress
+4364,United States Congress,references,United States Congress
+4372,United States Congress,references,United States Congress
+4399,United States Congress,references,United States Congress
+4403,United States Congress,references,United States Congress
+4421,United States Congress,references,United States Congress
+4440,United States Congress,references,United States Congress
+4440,United States House of Representatives,references,United States House of Representatives
+4446,United States Congress,references,United States Congress
+4448,United States Congress,references,United States Congress
+4495,United States Congress,references,United States Congress
+4495,United States Senate,references,United States Senate
+4495,United States Congress,references,United States Congress
+4497,United States Congress,references,United States Congress
+4497,United States Senate,references,United States Senate
+4497,United States Congress,references,United States Congress
+4499,United States Congress,references,United States Congress
+4499,United States Senate,references,United States Senate
+4499,United States Congress,references,United States Congress
+4580,United States Postal Service,references,
+4609,United States Congress,references,United States Congress
+4609,United States Senate,references,United States Senate
+4609,United States Congress,references,United States Congress
+4616,United States Congress,references,United States Congress
+4616,United States Senate,references,United States Senate
+4616,United States House of Representatives,references,United States House of Representatives
+4616,United States Congress,references,United States Congress
+4624,United States Congress,references,United States Congress
+4645,United States Congress,references,United States Congress
+4645,United States Senate,references,United States Senate
+4645,United States Congress,references,United States Congress
+4646,United States Congress,references,United States Congress
+4649,United States Congress,references,United States Congress
+4654,United States Congress,references,United States Congress
+4654,United States Senate,references,United States Senate
+4654,United States Congress,references,United States Congress
+4665,United States Congress,references,United States Congress
+4686,United States Senate,references,United States Senate
+4686,United States Congress,references,United States Congress
+4712,United States Congress,references,United States Congress
+4712,United States Senate,references,United States Senate
+4712,United States Congress,references,United States Congress
+4732,The White House,references,"Conversation from and about the White House, both as a destination and as political voice"
+4762,United States Congress,references,United States Congress
+4762,United States Senate,references,United States Senate
+4762,United States House of Representatives,references,United States House of Representatives
+4762,United States Congress,references,United States Congress
+4855,Federal Bureau of Investigation,references,All conversation about the United States Federal Bureau of Investigation
+4867,Federal Reserve,references,
+4902,United States Congress,references,United States Congress
+4902,United States Senate,references,United States Senate
+4902,United States Congress,references,United States Congress
+4907,United States Congress,references,United States Congress
+4907,United States Senate,references,United States Senate
+4907,United States Congress,references,United States Congress
+4957,United States Congress,references,United States Congress
+4976,United States Congress,references,United States Congress
+4976,United States Senate,references,United States Senate
+4976,United States House of Representatives,references,United States House of Representatives
+4976,United States Congress,references,United States Congress
+4990,United States Congress,references,United States Congress
+4990,United States Senate,references,United States Senate
+4990,United States Congress,references,United States Congress
+4991,United States Congress,references,United States Congress
+4991,United States Senate,references,United States Senate
+4991,United States Congress,references,United States Congress
+4992,United States Congress,references,United States Congress
+4992,United States Senate,references,United States Senate
+4992,United States Congress,references,United States Congress
+4996,United States Congress,references,United States Congress
+4996,United States Senate,references,United States Senate
+4996,United States Congress,references,United States Congress
+5045,Supreme Court of the United States,references,Conversation about the Supreme Court and justices
+5085,United States Congress,references,United States Congress
+5085,United States Senate,references,United States Senate
+5085,United States Congress,references,United States Congress
+5131,United States Congress,references,United States Congress
+5140,United States Congress,references,United States Congress
+5140,United States Senate,references,United States Senate
+5140,United States Congress,references,United States Congress
+5145,United States Congress,references,United States Congress
+5145,United States Senate,references,United States Senate
+5145,United States Congress,references,United States Congress
+5149,United States Congress,references,United States Congress
+5149,United States Senate,references,United States Senate
+5149,United States Congress,references,United States Congress
+5163,United States Congress,references,United States Congress
+5163,United States Senate,references,United States Senate
+5163,United States Congress,references,United States Congress
+5199,United States Congress,references,United States Congress
+5199,United States Senate,references,United States Senate
+5199,United States Congress,references,United States Congress
+5202,United States Air Force,references,United States Air Force
+5217,United States Congress,references,United States Congress
+5218,United States Congress,references,United States Congress
+5218,United States House of Representatives,references,United States House of Representatives
+5223,United States Congress,references,United States Congress
+5223,United States Senate,references,United States Senate
+5223,United States Congress,references,United States Congress
+5227,United States Senate,references,United States Senate
+5227,United States Congress,references,United States Congress
+5236,United States Congress,references,United States Congress
+5251,United Nations,references,Global conversation about the United Nations and all related efforts.
+5267,United States Congress,references,United States Congress
+5267,United States Senate,references,United States Senate
+5267,United States Congress,references,United States Congress
+5278,United States Congress,references,United States Congress
+5278,United States Senate,references,United States Senate
+5278,United States Congress,references,United States Congress
+5300,United States Congress,references,United States Congress
+5325,United States Congress,references,United States Congress
+5351,United States Senate,references,United States Senate
+5351,United States Congress,references,United States Congress
+5366,United States Congress,references,United States Congress
+5367,United States Air Force,references,United States Air Force
+5367,United States Coast Guard,references,United States Coast Guard
+5372,United States Congress,references,United States Congress
+5372,United States Senate,references,United States Senate
+5372,United States House of Representatives,references,United States House of Representatives
+5372,United States Congress,references,United States Congress
+5376,United States Congress,references,United States Congress
+5376,United States Senate,references,United States Senate
+5376,United States Congress,references,United States Congress
+5380,United States Congress,references,United States Congress
+5380,United States Senate,references,United States Senate
+5380,United States Congress,references,United States Congress
+5387,United States Congress,references,United States Congress
+5428,United States Senate,references,United States Senate
+5428,United States Congress,references,United States Congress
+5440,United States Congress,references,United States Congress
+5440,United States Senate,references,United States Senate
+5440,United States Congress,references,United States Congress
+5458,US Military,references,US Military
+5478,United States Congress,references,United States Congress
+5481,US Military,references,US Military
+5484,United States Congress,references,United States Congress
+5497,United States Congress,references,United States Congress
+5497,United States Senate,references,United States Senate
+5497,United States Congress,references,United States Congress
+5508,United States Postal Service,references,
+5517,United States Congress,references,United States Congress
+5517,United States Senate,references,United States Senate
+5517,United States Congress,references,United States Congress
+5573,United States Congress,references,United States Congress
+5588,United States Congress,references,United States Congress
+5588,United States Senate,references,United States Senate
+5588,United States House of Representatives,references,United States House of Representatives
+5588,United States Congress,references,United States Congress
+5609,United States Congress,references,United States Congress
+5611,US Environmental Protection Agency,references,US Environmental Protection Agency
+5633,United States Congress,references,United States Congress
+5643,United States Congress,references,United States Congress
+5643,United States Senate,references,United States Senate
+5643,United States Congress,references,United States Congress
+5645,United States Congress,references,United States Congress
+5645,United States Senate,references,United States Senate
+5645,United States Congress,references,United States Congress
+5652,The White House,references,"Conversation from and about the White House, both as a destination and as political voice"
+5653,United States Senate,references,United States Senate
+5653,United States House of Representatives,references,United States House of Representatives
+5653,United States Congress,references,United States Congress
+5661,United States Congress,references,United States Congress
+5661,United States Senate,references,United States Senate
+5661,United States Congress,references,United States Congress
+5662,United States Senate,references,United States Senate
+5662,United States Congress,references,United States Congress
+5663,United States Congress,references,United States Congress
+5679,US Military,references,US Military
+5712,The White House,references,"Conversation from and about the White House, both as a destination and as political voice"
+5714,The White House,references,"Conversation from and about the White House, both as a destination and as political voice"
+5726,United States Congress,references,United States Congress
+5726,United States Senate,references,United States Senate
+5726,United States Congress,references,United States Congress
+5728,United States Congress,references,United States Congress
+5730,United States Congress,references,United States Congress
+5730,United States Senate,references,United States Senate
+5730,United States Congress,references,United States Congress
+5738,United States Congress,references,United States Congress
+5738,United States Senate,references,United States Senate
+5738,United States Congress,references,United States Congress
+5742,United States Congress,references,United States Congress
+5742,United States Senate,references,United States Senate
+5742,United States Congress,references,United States Congress
+5743,Federal Reserve,references,
+5764,United Nations,references,Global conversation about the United Nations and all related efforts.
+5773,US Department of the Treasury,references,US Department of the Treasury
+5805,United States Congress,references,United States Congress
+5805,United States Senate,references,United States Senate
+5805,United States Congress,references,United States Congress
+5823,United States Congress,references,United States Congress
+5823,United States Senate,references,United States Senate
+5823,United States Congress,references,United States Congress
+5835,United States Congress,references,United States Congress
+5838,Supreme Court of the United States,references,Conversation about the Supreme Court and justices
+5838,Supreme Court of the United States,references,Conversation about the Supreme Court and justices
+5841,United States Congress,references,United States Congress
+5841,United States Senate,references,United States Senate
+5841,United States Congress,references,United States Congress
+5848,United States Coast Guard,references,United States Coast Guard
+5851,The White House,references,"Conversation from and about the White House, both as a destination and as political voice"
+5856,United States Congress,references,United States Congress
+5856,United States Senate,references,United States Senate
+5856,United States Congress,references,United States Congress
+5860,United States Congress,references,United States Congress
+5860,United States Senate,references,United States Senate
+5860,United States Congress,references,United States Congress
+5865,United States Congress,references,United States Congress
+5865,United States Senate,references,United States Senate
+5865,United States Congress,references,United States Congress
+5867,United States Congress,references,United States Congress
+5867,United States Senate,references,United States Senate
+5867,United States Congress,references,United States Congress
+5881,United States Congress,references,United States Congress
+5885,United States Congress,references,United States Congress
+5892,United States Congress,references,United States Congress
+5892,United States House of Representatives,references,United States House of Representatives
+5916,United States Postal Service,references,
+5939,US Department of State,references,US Department of State
+5961,United States Congress,references,United States Congress
+5961,United States Senate,references,United States Senate
+5961,United States Congress,references,United States Congress
+5976,United States Congress,references,United States Congress
+5979,United States Congress,references,United States Congress
+6005,The White House,references,"Conversation from and about the White House, both as a destination and as political voice"
+6028,United States Congress,references,United States Congress
+6030,US Environmental Protection Agency,references,US Environmental Protection Agency

@@ -1,0 +1,679 @@
+:START_ID(Tweet),:END_ID(States-ca),:TYPE,Specification
+4,North Carolina,references,North Carolina
+5,North Carolina,references,North Carolina
+15,Alabama,references,Alabama
+19,Georgia,references,Georgia
+21,Georgia,references,Georgia
+25,Texas,references,Texas
+36,Texas,references,Texas
+40,Nevada,references,Nevada
+47,Texas,references,Texas
+50,Texas,references,Texas
+52,Texas,references,Texas
+55,Texas,references,Texas
+70,Delaware,references,Delaware
+110,Indiana,references,Indiana
+111,Indiana,references,Indiana
+131,Kentucky,references,Kentucky
+157,Ohio,references,Ohio
+164,Oregon,references,Oregon
+246,Oklahoma,references,Oklahoma
+299,Florida,references,Florida
+301,Florida,references,Florida
+313,Texas,references,Texas
+314,North Carolina,references,North Carolina
+323,Georgia,references,Georgia
+323,Florida,references,Florida
+325,Delaware,references,Delaware
+328,Delaware,references,Delaware
+329,Delaware,references,Delaware
+330,Delaware,references,Delaware
+357,Kentucky,references,Kentucky
+357,Michigan,references,Michigan
+357,Vermont,references,Vermont
+357,California,references,California
+363,Oregon,references,Oregon
+364,Michigan,references,Michigan
+364,Vermont,references,Vermont
+364,California,references,California
+370,Oregon,references,Oregon
+375,Florida,references,Florida
+380,Illinois,references,Illinois
+384,Georgia,references,Georgia
+385,Georgia,references,Georgia
+415,Ohio,references,Ohio
+425,Ohio,references,Ohio
+455,Indiana,references,Indiana
+455,Ohio,references,Ohio
+455,Wisconsin,references,Wisconsin
+481,Texas,references,Texas
+492,Tennessee,references,Tennessee
+503,Texas,references,Texas
+505,Texas,references,Texas
+529,Florida,references,Florida
+535,Florida,references,Florida
+536,Florida,references,Florida
+550,California,references,California
+583,Georgia,references,Georgia
+586,Georgia,references,Georgia
+593,Georgia,references,Georgia
+598,Georgia,references,Georgia
+599,Georgia,references,Georgia
+615,Louisiana,references,Louisiana
+618,Louisiana,references,Louisiana
+626,Hawaii,references,Hawaii
+642,Illinois,references,Illinois
+643,Illinois,references,Illinois
+673,Texas,references,Texas
+681,California,references,California
+685,Ohio,references,Ohio
+694,Tennessee,references,Tennessee
+695,Texas,references,Texas
+696,Texas,references,Texas
+702,Georgia,references,Georgia
+706,Texas,references,Texas
+707,Texas,references,Texas
+710,Texas,references,Texas
+713,North Carolina,references,North Carolina
+719,Florida,references,Florida
+736,Rhode Island,references,Rhode Island
+737,Rhode Island,references,Rhode Island
+741,Rhode Island,references,Rhode Island
+765,Rhode Island,references,Rhode Island
+767,Rhode Island,references,Rhode Island
+772,Rhode Island,references,Rhode Island
+774,Rhode Island,references,Rhode Island
+781,Rhode Island,references,Rhode Island
+787,Rhode Island,references,Rhode Island
+799,Massachusetts,references,Massachusetts
+821,Missouri,references,Missouri
+831,Missouri,references,Missouri
+833,Missouri,references,Missouri
+844,Virginia,references,Virginia
+857,South Carolina,references,South Carolina
+893,Tennessee,references,Tennessee
+904,Tennessee,references,Tennessee
+905,Tennessee,references,Tennessee
+943,Virginia,references,Virginia
+972,Connecticut,references,Connecticut
+977,Connecticut,references,Connecticut
+981,Minnesota,references,Minnesota
+998,Texas,references,Texas
+1008,Kansas,references,Kansas
+1011,Kansas,references,Kansas
+1012,Kansas,references,Kansas
+1013,Kansas,references,Kansas
+1017,Kansas,references,Kansas
+1032,Arizona,references,Arizona
+1070,Connecticut,references,Connecticut
+1071,Connecticut,references,Connecticut
+1073,Connecticut,references,Connecticut
+1109,California,references,California
+1124,Florida,references,Florida
+1126,Florida,references,Florida
+1137,Nebraska,references,Nebraska
+1146,Michigan,references,Michigan
+1151,Michigan,references,Michigan
+1162,Texas,references,Texas
+1169,Texas,references,Texas
+1178,Florida,references,Florida
+1180,Florida,references,Florida
+1181,Florida,references,Florida
+1199,South Carolina,references,South Carolina
+1223,Alaska,references,Alaska
+1229,California,references,California
+1230,Alaska,references,Alaska
+1232,Alaska,references,Alaska
+1253,Utah,references,Utah
+1253,Wyoming,references,Wyoming
+1253,Nevada,references,Nevada
+1288,California,references,California
+1382,Kansas,references,Kansas
+1394,Pennsylvania,references,Pennsylvania
+1401,Pennsylvania,references,Pennsylvania
+1434,Pennsylvania,references,Pennsylvania
+1442,Pennsylvania,references,Pennsylvania
+1443,Pennsylvania,references,Pennsylvania
+1471,Texas,references,Texas
+1522,Tennessee,references,Tennessee
+1572,Idaho,references,Idaho
+1592,Wisconsin,references,Wisconsin
+1616,California,references,California
+1645,Pennsylvania,references,Pennsylvania
+1676,Illinois,references,Illinois
+1677,Illinois,references,Illinois
+1683,Florida,references,Florida
+1701,California,references,California
+1705,California,references,California
+1746,Texas,references,Texas
+1750,Texas,references,Texas
+1750,California,references,California
+1754,Texas,references,Texas
+1766,Arizona,references,Arizona
+1766,Texas,references,Texas
+1766,Florida,references,Florida
+1789,New Jersey,references,New Jersey
+1792,New Jersey,references,New Jersey
+1827,Tennessee,references,Tennessee
+1828,Tennessee,references,Tennessee
+1829,Tennessee,references,Tennessee
+1860,Georgia,references,Georgia
+1860,Florida,references,Florida
+1863,Georgia,references,Georgia
+1863,Florida,references,Florida
+1881,Georgia,references,Georgia
+1884,Arizona,references,Arizona
+1887,Arizona,references,Arizona
+1887,New Jersey,references,New Jersey
+1892,Ohio,references,Ohio
+1914,Georgia,references,Georgia
+1944,Kentucky,references,Kentucky
+1947,Kentucky,references,Kentucky
+1948,Kentucky,references,Kentucky
+1965,Missouri,references,Missouri
+2018,Louisiana,references,Louisiana
+2021,Arkansas,references,Arkansas
+2022,Arkansas,references,Arkansas
+2023,Arkansas,references,Arkansas
+2025,Arkansas,references,Arkansas
+2029,Iowa,references,Iowa
+2035,Iowa,references,Iowa
+2039,Iowa,references,Iowa
+2044,South Dakota,references,South Dakota
+2045,Nevada,references,Nevada
+2051,Nevada,references,Nevada
+2053,Nevada,references,Nevada
+2054,Nevada,references,Nevada
+2060,Pennsylvania,references,Pennsylvania
+2086,Maryland,references,Maryland
+2091,Maryland,references,Maryland
+2104,California,references,California
+2118,Florida,references,Florida
+2150,Texas,references,Texas
+2260,Georgia,references,Georgia
+2271,Louisiana,references,Louisiana
+2305,Ohio,references,Ohio
+2317,Hawaii,references,Hawaii
+2343,Massachusetts,references,Massachusetts
+2353,Pennsylvania,references,Pennsylvania
+2382,Michigan,references,Michigan
+2383,Michigan,references,Michigan
+2384,Michigan,references,Michigan
+2385,Michigan,references,Michigan
+2386,Michigan,references,Michigan
+2387,Michigan,references,Michigan
+2389,Michigan,references,Michigan
+2435,California,references,California
+2436,California,references,California
+2442,North Carolina,references,North Carolina
+2475,Tennessee,references,Tennessee
+2484,Illinois,references,Illinois
+2488,California,references,California
+2505,Colorado,references,Colorado
+2508,Colorado,references,Colorado
+2513,Rhode Island,references,Rhode Island
+2517,Rhode Island,references,Rhode Island
+2519,Rhode Island,references,Rhode Island
+2533,Connecticut,references,Connecticut
+2538,Ohio,references,Ohio
+2548,Ohio,references,Ohio
+2550,Ohio,references,Ohio
+2556,Michigan,references,Michigan
+2557,Michigan,references,Michigan
+2558,Michigan,references,Michigan
+2564,Florida,references,Florida
+2571,Kentucky,references,Kentucky
+2571,Maryland,references,Maryland
+2571,Michigan,references,Michigan
+2571,Missouri,references,Missouri
+2571,Montana,references,Montana
+2571,Nebraska,references,Nebraska
+2571,Vermont,references,Vermont
+2571,California,references,California
+2581,Nevada,references,Nevada
+2642,Arizona,references,Arizona
+2642,Florida,references,Florida
+2642,Nevada,references,Nevada
+2666,Georgia,references,Georgia
+2670,Oklahoma,references,Oklahoma
+2691,Georgia,references,Georgia
+2691,North Carolina,references,North Carolina
+2691,South Carolina,references,South Carolina
+2692,South Carolina,references,South Carolina
+2713,Florida,references,Florida
+2724,New Jersey,references,New Jersey
+2747,North Carolina,references,North Carolina
+2748,North Carolina,references,North Carolina
+2762,Arizona,references,Arizona
+2916,Minnesota,references,Minnesota
+2923,Minnesota,references,Minnesota
+2938,Virginia,references,Virginia
+2946,Colorado,references,Colorado
+2957,Massachusetts,references,Massachusetts
+2984,Texas,references,Texas
+2988,Michigan,references,Michigan
+2992,Pennsylvania,references,Pennsylvania
+2992,Florida,references,Florida
+2992,California,references,California
+2996,Michigan,references,Michigan
+3009,New York State,references,New York State
+3033,Illinois,references,Illinois
+3051,Iowa,references,Iowa
+3057,West Virginia,references,West Virginia
+3059,Alabama,references,Alabama
+3060,Alabama,references,Alabama
+3062,Alabama,references,Alabama
+3064,Alabama,references,Alabama
+3066,Utah,references,Utah
+3073,Wisconsin,references,Wisconsin
+3076,Wisconsin,references,Wisconsin
+3077,Wisconsin,references,Wisconsin
+3078,Wisconsin,references,Wisconsin
+3084,Wisconsin,references,Wisconsin
+3120,Florida,references,Florida
+3125,Florida,references,Florida
+3126,Florida,references,Florida
+3146,Texas,references,Texas
+3186,New Jersey,references,New Jersey
+3223,California,references,California
+3231,Utah,references,Utah
+3233,Utah,references,Utah
+3238,Utah,references,Utah
+3242,Utah,references,Utah
+3256,South Dakota,references,South Dakota
+3258,Michigan,references,Michigan
+3258,Vermont,references,Vermont
+3258,California,references,California
+3263,New Jersey,references,New Jersey
+3271,New Jersey,references,New Jersey
+3276,Alabama,references,Alabama
+3278,Alabama,references,Alabama
+3288,California,references,California
+3290,California,references,California
+3292,California,references,California
+3298,New Hampshire,references,New Hampshire
+3316,New Jersey,references,New Jersey
+3326,New Jersey,references,New Jersey
+3330,Arkansas,references,Arkansas
+3330,Iowa,references,Iowa
+3330,Kansas,references,Kansas
+3330,Missouri,references,Missouri
+3330,Nebraska,references,Nebraska
+3330,South Carolina,references,South Carolina
+3395,New Jersey,references,New Jersey
+3397,Alaska,references,Alaska
+3454,California,references,California
+3456,California,references,California
+3470,Kentucky,references,Kentucky
+3470,Michigan,references,Michigan
+3470,Montana,references,Montana
+3470,Vermont,references,Vermont
+3470,California,references,California
+3479,Michigan,references,Michigan
+3482,Wisconsin,references,Wisconsin
+3483,Wisconsin,references,Wisconsin
+3495,California,references,California
+3504,Massachusetts,references,Massachusetts
+3506,Massachusetts,references,Massachusetts
+3507,Massachusetts,references,Massachusetts
+3537,Maryland,references,Maryland
+3539,Maryland,references,Maryland
+3547,Pennsylvania,references,Pennsylvania
+3586,Alabama,references,Alabama
+3604,Montana,references,Montana
+3606,Montana,references,Montana
+3607,Montana,references,Montana
+3608,Montana,references,Montana
+3609,Montana,references,Montana
+3617,North Carolina,references,North Carolina
+3659,California,references,California
+3684,Ohio,references,Ohio
+3700,Maryland,references,Maryland
+3728,Illinois,references,Illinois
+3735,Illinois,references,Illinois
+3736,Illinois,references,Illinois
+3762,Georgia,references,Georgia
+3793,Alabama,references,Alabama
+3794,Alabama,references,Alabama
+3795,Alabama,references,Alabama
+3817,New Jersey,references,New Jersey
+3823,Idaho,references,Idaho
+3825,Idaho,references,Idaho
+3829,Washington State,references,Washington
+3842,Washington State,references,Washington
+3893,Florida,references,Florida
+3899,Florida,references,Florida
+3920,Indiana,references,Indiana
+3921,Indiana,references,Indiana
+3928,California,references,California
+3955,Arizona,references,Arizona
+3959,Minnesota,references,Minnesota
+4011,Wisconsin,references,Wisconsin
+4018,Florida,references,Florida
+4024,Florida,references,Florida
+4041,Michigan,references,Michigan
+4068,Michigan,references,Michigan
+4068,New Jersey,references,New Jersey
+4100,Georgia,references,Georgia
+4126,Mississippi,references,Mississippi
+4146,California,references,California
+4167,California,references,California
+4171,California,references,California
+4179,Wisconsin,references,Wisconsin
+4181,Wisconsin,references,Wisconsin
+4189,Colorado,references,Colorado
+4191,Nevada,references,Nevada
+4199,Nevada,references,Nevada
+4207,Nevada,references,Nevada
+4209,Nevada,references,Nevada
+4215,Michigan,references,Michigan
+4227,Ontario,references,Ontario
+4238,Ontario,references,Ontario
+4242,Ontario,references,Ontario
+4278,Massachusetts,references,Massachusetts
+4280,Massachusetts,references,Massachusetts
+4281,Massachusetts,references,Massachusetts
+4300,Illinois,references,Illinois
+4317,Texas,references,Texas
+4319,Texas,references,Texas
+4332,Texas,references,Texas
+4333,Texas,references,Texas
+4337,Louisiana,references,Louisiana
+4361,Kentucky,references,Kentucky
+4361,Maryland,references,Maryland
+4361,Michigan,references,Michigan
+4361,Missouri,references,Missouri
+4361,Montana,references,Montana
+4361,Vermont,references,Vermont
+4361,California,references,California
+4362,Florida,references,Florida
+4364,New Jersey,references,New Jersey
+4365,Michigan,references,Michigan
+4365,Vermont,references,Vermont
+4365,California,references,California
+4371,New Jersey,references,New Jersey
+4373,New Jersey,references,New Jersey
+4389,Vermont,references,Vermont
+4399,Arkansas,references,Arkansas
+4403,Arkansas,references,Arkansas
+4404,Arkansas,references,Arkansas
+4418,Georgia,references,Georgia
+4419,Kentucky,references,Kentucky
+4419,Michigan,references,Michigan
+4419,Montana,references,Montana
+4419,Vermont,references,Vermont
+4419,California,references,California
+4426,Alabama,references,Alabama
+4426,Tennessee,references,Tennessee
+4426,Vermont,references,Vermont
+4428,Georgia,references,Georgia
+4433,Alabama,references,Alabama
+4433,Oregon,references,Oregon
+4433,Tennessee,references,Tennessee
+4433,Vermont,references,Vermont
+4433,Louisiana,references,Louisiana
+4435,Georgia,references,Georgia
+4444,Georgia,references,Georgia
+4448,Florida,references,Florida
+4451,Florida,references,Florida
+4455,Florida,references,Florida
+4488,Alaska,references,Alaska
+4492,Alaska,references,Alaska
+4493,Alaska,references,Alaska
+4498,Alaska,references,Alaska
+4502,Alabama,references,Alabama
+4511,Alabama,references,Alabama
+4512,Alabama,references,Alabama
+4523,Mississippi,references,Mississippi
+4524,Arkansas,references,Arkansas
+4532,Arizona,references,Arizona
+4535,Arizona,references,Arizona
+4540,California,references,California
+4542,California,references,California
+4543,California,references,California
+4547,California,references,California
+4555,California,references,California
+4556,Colorado,references,Colorado
+4561,Colorado,references,Colorado
+4568,Colorado,references,Colorado
+4571,Colorado,references,Colorado
+4573,Colorado,references,Colorado
+4576,Colorado,references,Colorado
+4577,Colorado,references,Colorado
+4579,Colorado,references,Colorado
+4581,Colorado,references,Colorado
+4583,Colorado,references,Colorado
+4608,Georgia,references,Georgia
+4616,Michigan,references,Michigan
+4616,South Dakota,references,South Dakota
+4624,Connecticut,references,Connecticut
+4629,Hawaii,references,Hawaii
+4631,Connecticut,references,Connecticut
+4634,Connecticut,references,Connecticut
+4637,Connecticut,references,Connecticut
+4656,Connecticut,references,Connecticut
+4660,Connecticut,references,Connecticut
+4663,Delaware,references,Delaware
+4665,Delaware,references,Delaware
+4667,Delaware,references,Delaware
+4669,Delaware,references,Delaware
+4675,Delaware,references,Delaware
+4686,Florida,references,Florida
+4692,Florida,references,Florida
+4693,Florida,references,Florida
+4694,Florida,references,Florida
+4695,Florida,references,Florida
+4698,Florida,references,Florida
+4699,Florida,references,Florida
+4702,Florida,references,Florida
+4703,Florida,references,Florida
+4704,Florida,references,Florida
+4707,Florida,references,Florida
+4709,Florida,references,Florida
+4724,Florida,references,Florida
+4725,Florida,references,Florida
+4728,Florida,references,Florida
+4745,Florida,references,Florida
+4748,Florida,references,Florida
+4751,Florida,references,Florida
+4754,Florida,references,Florida
+4760,Florida,references,Florida
+4763,Georgia,references,Georgia
+4800,Georgia,references,Georgia
+4811,Georgia,references,Georgia
+4836,Hawaii,references,Hawaii
+4838,Hawaii,references,Hawaii
+4839,Hawaii,references,Hawaii
+4852,Iowa,references,Iowa
+4860,West Virginia,references,West Virginia
+4863,Iowa,references,Iowa
+4870,Iowa,references,Iowa
+4873,Illinois,references,Illinois
+4874,Illinois,references,Illinois
+4879,Iowa,references,Iowa
+4881,Iowa,references,Iowa
+4882,Iowa,references,Iowa
+4886,Iowa,references,Iowa
+4887,Iowa,references,Iowa
+4894,Idaho,references,Idaho
+4903,Idaho,references,Idaho
+4926,Indiana,references,Indiana
+4928,Indiana,references,Indiana
+4943,Kansas,references,Kansas
+4946,Kansas,references,Kansas
+4955,Utah,references,Utah
+4956,Kentucky,references,Kentucky
+4960,Kentucky,references,Kentucky
+4961,Kentucky,references,Kentucky
+4962,Kentucky,references,Kentucky
+4968,Kentucky,references,Kentucky
+4969,Kentucky,references,Kentucky
+4975,Kentucky,references,Kentucky
+4978,Kentucky,references,Kentucky
+4986,Louisiana,references,Louisiana
+4989,Florida,references,Florida
+4994,Louisiana,references,Louisiana
+5002,Alabama,references,Alabama
+5012,Louisiana,references,Louisiana
+5031,Massachusetts,references,Massachusetts
+5053,Maryland,references,Maryland
+5055,Maryland,references,Maryland
+5060,Maryland,references,Maryland
+5061,Maryland,references,Maryland
+5062,Maryland,references,Maryland
+5063,Maryland,references,Maryland
+5064,Maryland,references,Maryland
+5066,Maryland,references,Maryland
+5068,Maryland,references,Maryland
+5072,Maryland,references,Maryland
+5073,Maryland,references,Maryland
+5074,Maryland,references,Maryland
+5085,Maryland,references,Maryland
+5086,Maryland,references,Maryland
+5092,Michigan,references,Michigan
+5093,Michigan,references,Michigan
+5097,Michigan,references,Michigan
+5099,Michigan,references,Michigan
+5102,Michigan,references,Michigan
+5109,Michigan,references,Michigan
+5110,Michigan,references,Michigan
+5123,Minnesota,references,Minnesota
+5124,Minnesota,references,Minnesota
+5129,Missouri,references,Missouri
+5131,Florida,references,Florida
+5140,Ohio,references,Ohio
+5142,Missouri,references,Missouri
+5145,Missouri,references,Missouri
+5148,Missouri,references,Missouri
+5149,Missouri,references,Missouri
+5154,Missouri,references,Missouri
+5158,Delaware,references,Delaware
+5165,Mississippi,references,Mississippi
+5179,Mississippi,references,Mississippi
+5210,Montana,references,Montana
+5212,Montana,references,Montana
+5216,Montana,references,Montana
+5217,Montana,references,Montana
+5218,Montana,references,Montana
+5219,Montana,references,Montana
+5220,Montana,references,Montana
+5221,Montana,references,Montana
+5222,Montana,references,Montana
+5223,Washington State,references,Washington
+5224,Montana,references,Montana
+5227,Nevada,references,Nevada
+5229,Montana,references,Montana
+5245,Montana,references,Montana
+5248,Montana,references,Montana
+5261,North Carolina,references,North Carolina
+5268,North Dakota,references,North Dakota
+5272,North Dakota,references,North Dakota
+5282,North Dakota,references,North Dakota
+5289,Nebraska,references,Nebraska
+5314,New Hampshire,references,New Hampshire
+5317,New Hampshire,references,New Hampshire
+5353,Colorado,references,Colorado
+5363,New Jersey,references,New Jersey
+5374,New Jersey,references,New Jersey
+5382,New Jersey,references,New Jersey
+5399,Nevada,references,Nevada
+5401,Nevada,references,Nevada
+5402,Nevada,references,Nevada
+5404,Nevada,references,Nevada
+5405,Nevada,references,Nevada
+5407,Nevada,references,Nevada
+5408,Mississippi,references,Mississippi
+5408,Nevada,references,Nevada
+5412,Nevada,references,Nevada
+5414,Nevada,references,Nevada
+5417,Nevada,references,Nevada
+5418,Nevada,references,Nevada
+5422,Nevada,references,Nevada
+5445,Ohio,references,Ohio
+5449,Ohio,references,Ohio
+5450,Ohio,references,Ohio
+5477,Oregon,references,Oregon
+5482,Oregon,references,Oregon
+5483,Oregon,references,Oregon
+5485,Oregon,references,Oregon
+5487,Oregon,references,Oregon
+5488,Oregon,references,Oregon
+5490,Oregon,references,Oregon
+5496,Oregon,references,Oregon
+5497,Oregon,references,Oregon
+5498,Oregon,references,Oregon
+5500,Oregon,references,Oregon
+5509,Oregon,references,Oregon
+5510,Oregon,references,Oregon
+5511,Oregon,references,Oregon
+5513,Oregon,references,Oregon
+5517,Oregon,references,Oregon
+5519,Oregon,references,Oregon
+5523,Oregon,references,Oregon
+5524,Oregon,references,Oregon
+5525,Oregon,references,Oregon
+5526,Oregon,references,Oregon
+5529,Oregon,references,Oregon
+5533,Oregon,references,Oregon
+5546,Oregon,references,Oregon
+5549,Oregon,references,Oregon
+5549,Texas,references,Texas
+5553,Oregon,references,Oregon
+5555,Oregon,references,Oregon
+5562,Pennsylvania,references,Pennsylvania
+5569,Pennsylvania,references,Pennsylvania
+5570,Pennsylvania,references,Pennsylvania
+5573,Pennsylvania,references,Pennsylvania
+5580,Pennsylvania,references,Pennsylvania
+5604,Rhode Island,references,Rhode Island
+5640,Rhode Island,references,Rhode Island
+5650,Nevada,references,Nevada
+5656,Florida,references,Florida
+5681,South Dakota,references,South Dakota
+5694,Tennessee,references,Tennessee
+5759,Tennessee,references,Tennessee
+5769,Texas,references,Texas
+5780,Texas,references,Texas
+5791,Texas,references,Texas
+5799,Florida,references,Florida
+5802,Florida,references,Florida
+5804,Georgia,references,Georgia
+5806,Iowa,references,Iowa
+5807,Utah,references,Utah
+5809,Texas,references,Texas
+5811,Texas,references,Texas
+5814,Texas,references,Texas
+5830,Texas,references,Texas
+5835,Michigan,references,Michigan
+5845,California,references,California
+5864,Texas,references,Texas
+5875,North Carolina,references,North Carolina
+5897,Virginia,references,Virginia
+5898,Virginia,references,Virginia
+5903,North Carolina,references,North Carolina
+5924,Nevada,references,Nevada
+5941,Vermont,references,Vermont
+5942,Washington State,references,Washington
+5944,Washington State,references,Washington
+5947,Washington State,references,Washington
+5958,Oregon,references,Oregon
+5958,California,references,California
+5958,Nevada,references,Nevada
+5961,Washington State,references,Washington
+5964,Washington State,references,Washington
+5968,Washington State,references,Washington
+5972,Wisconsin,references,Wisconsin
+5973,Wisconsin,references,Wisconsin
+5975,Wisconsin,references,Wisconsin
+5978,Wisconsin,references,Wisconsin
+5985,West Virginia,references,West Virginia
+5990,West Virginia,references,West Virginia
+5997,West Virginia,references,West Virginia
+5999,West Virginia,references,West Virginia
+6014,West Virginia,references,West Virginia
+6019,Wyoming,references,Wyoming
+6023,Wyoming,references,Wyoming
+6024,Wyoming,references,Wyoming
+6025,Wyoming,references,Wyoming
+6027,Wyoming,references,Wyoming
+6030,Wyoming,references,Wyoming

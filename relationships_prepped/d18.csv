@@ -1,0 +1,646 @@
+:START_ID(Tweet),:END_ID(Entities [Entity Service]-ca),:TYPE,Specification
+3,Non-profit - Government/Education,references,
+19,Auto Manufacturer - Auto,references,
+28,Non-profit - Government/Education,references,
+44,Non-profit - Government/Education,references,
+49,TV/Movies Related - Entertainment,references,
+73,US Military,references,US Military
+78,Non-profit - Government/Education,references,
+83,Non-profit - Government/Education,references,
+109,Non-profit - Government/Education,references,
+117,Non-profit - Government/Education,references,
+125,Services,references,
+148,Non-profit - Government/Education,references,
+161,Non-profit - Government/Education,references,
+163,Non-profit - Government/Education,references,
+168,Organic,references,
+172,Non-profit - Government/Education,references,
+194,Non-profit - Government/Education,references,
+215,Services,references,
+224,TV/Movies Related - Entertainment,references,
+232,TV/Movies Related - Entertainment,references,
+247,Non-profit - Government/Education,references,
+266,Non-profit - Government/Education,references,
+298,Non-profit - Government/Education,references,
+315,Non-profit - Government/Education,references,
+322,Non-profit - Government/Education,references,
+328,Non-profit - Government/Education,references,
+363,Science,references,Science
+381,Non-profit - Government/Education,references,
+390,Non-profit - Government/Education,references,
+397,Industries,references,
+410,US Military,references,US Military
+415,Technology,references,Technology and computing
+415,Technology,references,Technology and computing
+415,Energy Technology,references,Energy Technology
+416,US Military,references,US Military
+417,Non-profit - Government/Education,references,
+444,US Military,references,US Military
+465,TV/Movies Related - Entertainment,references,
+481,Airline - Transportation,references,
+481,Travel,references,Travel
+485,Non-profit - Government/Education,references,
+490,Non-profit - Government/Education,references,
+500,Financial services,references,
+501,Non-profit - Government/Education,references,
+518,Technology,references,Technology and computing
+518,3D printing,references,
+533,Non-profit - Government/Education,references,
+544,Non-profit - Government/Education,references,
+546,Pets,references,Pets
+546,Science,references,Science
+546,Marine life,references,
+547,Non-profit - Government/Education,references,
+555,Technology,references,Technology and computing
+575,Non-profit - Government/Education,references,
+578,Non-profit - Government/Education,references,
+587,Non-profit - Government/Education,references,
+587,Pets,references,Pets
+587,Dogs,references,Dogs
+591,Travel,references,Travel
+601,Non-profit - Government/Education,references,
+609,Non-profit - Government/Education,references,
+611,Non-profit - Government/Education,references,
+680,TV/Movies Related - Entertainment,references,
+681,TV/Movies Related - Entertainment,references,
+689,Food,references,Food
+689,Meals,references,Meals
+703,TV/Movies Related - Entertainment,references,
+706,TV/Movies Related - Entertainment,references,
+716,Non-profit - Government/Education,references,
+738,Non-profit - Government/Education,references,
+748,Lunch,references,This entity tracks all conversations that mention lunch.
+784,Non-profit - Government/Education,references,
+816,Gas/Oil - Energy,references,
+822,Non-profit - Government/Education,references,
+830,Grocery/Convenience - Retail,references,
+830,Food,references,Food
+842,Non-profit - Government/Education,references,
+843,Technology,references,Technology and computing
+857,Non-profit - Government/Education,references,
+861,Services,references,
+875,Non-profit - Government/Education,references,
+890,Non-profit - Government/Education,references,
+899,Auto Manufacturer - Auto,references,
+900,Science,references,Science
+907,TV/Movies Related - Entertainment,references,
+908,TV/Movies Related - Entertainment,references,
+913,TV/Movies Related - Entertainment,references,
+913,Services,references,
+923,TV/Movies Related - Entertainment,references,
+935,Travel,references,Travel
+938,Non-profit - Government/Education,references,
+955,Non-profit - Government/Education,references,
+969,Non-profit - Government/Education,references,
+995,Gas/Oil - Energy,references,
+996,Retirement planning,references,Retirement planning
+1002,Non-profit - Government/Education,references,
+1007,Organic,references,
+1017,Services,references,
+1027,Technology,references,Technology and computing
+1027,Financial Technology,references,
+1027,Technology,references,Technology
+1028,Services,references,
+1031,Technology,references,Technology and computing
+1031,Financial Technology,references,
+1031,Technology,references,Technology
+1050,Banking - Business & finance,references,
+1069,Non-profit - Government/Education,references,
+1074,Aerospace,references,Aerospace
+1074,Science,references,Science
+1077,Biology,references,Biology
+1077,Medical technology,references,Medical Technology
+1121,Non-profit - Government/Education,references,
+1141,Non-profit - Government/Education,references,
+1177,Technology,references,Technology and computing
+1177,Energy Technology,references,Energy Technology
+1183,Non-profit - Government/Education,references,
+1193,Technology,references,Technology and computing
+1193,Energy Technology,references,Energy Technology
+1194,US Military,references,US Military
+1195,Services,references,
+1195,Technology,references,Technology and computing
+1195,Energy Technology,references,Energy Technology
+1210,Non-profit - Government/Education,references,
+1216,Organic,references,
+1224,Food,references,Food
+1234,TV/Movies Related - Entertainment,references,
+1272,Retirement planning,references,Retirement planning
+1280,Aerospace,references,Aerospace
+1280,Science,references,Science
+1298,Non-profit - Government/Education,references,
+1312,Travel,references,Travel
+1316,Non-profit - Government/Education,references,
+1335,Non-profit - Government/Education,references,
+1349,Non-profit - Government/Education,references,
+1350,Non-profit - Government/Education,references,
+1419,Food,references,Food
+1458,Services,references,
+1469,Non-profit - Government/Education,references,
+1486,Non-profit - Government/Education,references,
+1492,Non-profit - Government/Education,references,
+1496,Non-profit - Government/Education,references,
+1499,Non-profit - Government/Education,references,
+1501,Retirement planning,references,Retirement planning
+1514,Non-profit - Government/Education,references,
+1519,Non-profit - Government/Education,references,
+1521,Non-profit - Government/Education,references,
+1524,Financial services,references,
+1528,Non-profit - Government/Education,references,
+1534,Non-profit - Government/Education,references,
+1539,TV/Movies Related - Entertainment,references,
+1540,Non-profit - Government/Education,references,
+1541,TV/Movies Related - Entertainment,references,
+1557,Non-profit - Government/Education,references,
+1559,Non-profit - Government/Education,references,
+1563,Non-profit - Government/Education,references,
+1590,Non-profit - Government/Education,references,
+1599,Non-profit - Government/Education,references,
+1600,Non-profit - Government/Education,references,
+1606,TV/Movies Related - Entertainment,references,
+1607,Services,references,
+1611,Non-profit - Government/Education,references,
+1619,Non-profit - Government/Education,references,
+1630,Technology,references,Technology and computing
+1630,Cybersecurity,references,Cybersecurity
+1651,Non-profit - Government/Education,references,
+1685,Non-profit - Government/Education,references,
+1690,Travel,references,Travel
+1694,TV/Movies Related - Entertainment,references,
+1711,Services,references,
+1725,Non-profit - Government/Education,references,
+1734,Non-profit - Government/Education,references,
+1746,Technology,references,Technology and computing
+1751,Non-profit - Government/Education,references,
+1774,Services,references,
+1782,Non-profit - Government/Education,references,
+1783,Food,references,Food
+1785,Gluten-Free,references,Gluten-Free
+1793,Retirement planning,references,Retirement planning
+1805,Non-profit - Government/Education,references,
+1810,Non-profit - Government/Education,references,
+1813,Food,references,Food
+1823,Non-profit - Government/Education,references,
+1846,Services,references,
+1873,Services,references,
+1888,Technology,references,Technology
+1893,TV/Movies Related - Entertainment,references,
+1902,Services,references,
+1904,Services,references,
+1908,Services,references,
+1910,Services,references,
+1932,Food,references,Food
+1932,Lunch,references,This entity tracks all conversations that mention lunch.
+1938,Non-profit - Government/Education,references,
+1950,Non-profit - Government/Education,references,
+1954,Non-profit - Government/Education,references,
+1964,Non-profit - Government/Education,references,
+1973,Non-profit - Government/Education,references,
+1987,Non-profit - Government/Education,references,
+1988,Non-profit - Government/Education,references,
+1991,Travel,references,Travel
+1991,US Military,references,US Military
+1995,Non-profit - Government/Education,references,
+2002,Auto Manufacturer - Auto,references,
+2007,Non-profit - Government/Education,references,
+2038,Industries,references,
+2047,Non-profit - Government/Education,references,
+2062,Non-profit - Government/Education,references,
+2063,Non-profit - Government/Education,references,
+2085,TV/Movies Related - Entertainment,references,
+2089,TV/Movies Related - Entertainment,references,
+2093,Don,references,
+2094,Non-profit - Government/Education,references,
+2110,Financial services,references,
+2114,Non-profit - Government/Education,references,
+2119,Services,references,
+2121,Services,references,
+2123,Industries,references,
+2127,Non-profit - Government/Education,references,
+2132,US Military,references,US Military
+2137,Non-profit - Government/Education,references,
+2141,Services,references,
+2177,Non-profit - Government/Education,references,
+2185,History,references,History
+2236,Non-profit - Government/Education,references,
+2246,Food,references,Food
+2246,Lunch,references,This entity tracks all conversations that mention lunch.
+2257,Non-profit - Government/Education,references,
+2270,Non-profit - Government/Education,references,
+2299,Retirement planning,references,Retirement planning
+2306,Non-profit - Government/Education,references,
+2313,Non-profit - Government/Education,references,
+2339,Technology,references,Technology and computing
+2339,Cybersecurity,references,Cybersecurity
+2339,Information security,references,Information Security
+2339,Data Privacy and Protection,references,
+2340,Lunch,references,This entity tracks all conversations that mention lunch.
+2346,Food,references,Food
+2352,Insurance,references,
+2354,Non-profit - Government/Education,references,
+2360,Technology,references,Technology and computing
+2360,Cybersecurity,references,Cybersecurity
+2360,Information security,references,Information Security
+2360,Technology,references,Technology and computing
+2367,Science,references,Science
+2379,Food,references,Food
+2393,Non-profit - Government/Education,references,
+2396,Services,references,
+2407,Non-profit - Government/Education,references,
+2425,Non-profit - Government/Education,references,
+2434,Non-profit - Government/Education,references,
+2442,Non-profit - Government/Education,references,
+2450,Technology,references,Technology and computing
+2450,Cybersecurity,references,Cybersecurity
+2453,Services,references,
+2455,Non-profit - Government/Education,references,
+2470,Non-profit - Government/Education,references,
+2476,Non-profit - Government/Education,references,
+2482,Non-profit - Government/Education,references,
+2487,Non-profit - Government/Education,references,
+2498,Technology,references,Technology and computing
+2506,Non-profit - Government/Education,references,
+2515,Non-profit - Government/Education,references,
+2523,Non-profit - Government/Education,references,
+2531,Non-profit - Government/Education,references,
+2543,Non-profit - Government/Education,references,
+2554,Non-profit - Government/Education,references,
+2560,Non-profit - Government/Education,references,
+2574,Technology,references,Technology and computing
+2574,Technology,references,Technology and computing
+2574,Energy Technology,references,Energy Technology
+2583,Food,references,Food
+2583,Meals,references,Meals
+2590,Non-profit - Government/Education,references,
+2591,Service/Supply - Auto,references,
+2595,Non-profit - Government/Education,references,
+2606,Non-profit - Government/Education,references,
+2619,Services,references,
+2623,Non-profit - Government/Education,references,
+2630,Fitness Novelty,references,Fitness Novelty
+2632,Non-profit - Government/Education,references,
+2634,Fitness Novelty,references,Fitness Novelty
+2665,Non-profit - Government/Education,references,
+2671,Non-profit - Government/Education,references,
+2672,Non-profit - Government/Education,references,
+2676,Non-profit - Government/Education,references,
+2682,Non-profit - Government/Education,references,
+2703,Non-profit - Government/Education,references,
+2715,Non-profit - Government/Education,references,
+2720,Non-profit - Government/Education,references,
+2726,Non-profit - Government/Education,references,
+2732,Non-profit - Government/Education,references,
+2737,Non-profit - Government/Education,references,
+2763,Aerospace,references,Aerospace
+2763,Science,references,Science
+2763,Education Related - Government/Education,references,
+2773,Services,references,
+2791,Services,references,
+2805,Services,references,
+2820,Services,references,
+2825,TV/Movies Related - Entertainment,references,
+2827,Food,references,Food
+2827,Lunch,references,This entity tracks all conversations that mention lunch.
+2831,Fantasy sports,references,Fantasy sports
+2846,Retirement planning,references,Retirement planning
+2861,Non-profit - Government/Education,references,
+2887,TV/Movies Related - Entertainment,references,
+2888,Non-profit - Government/Education,references,
+2889,TV/Movies Related - Entertainment,references,
+2891,TV/Movies Related - Entertainment,references,
+2893,TV/Movies Related - Entertainment,references,
+2900,Non-profit - Government/Education,references,
+2914,Non-profit - Government/Education,references,
+2916,Non-profit - Government/Education,references,
+2918,Travel,references,Travel
+2920,Non-profit - Government/Education,references,
+2928,Non-profit - Government/Education,references,
+2933,Technology,references,Technology and computing
+2933,Technology,references,Technology and computing
+2933,Energy Technology,references,Energy Technology
+2946,Food,references,Food
+2946,Meals,references,Meals
+2947,Food,references,Food
+2976,US Military,references,US Military
+2977,Non-profit - Government/Education,references,
+2992,QSR - Dining,references,
+2997,Technology,references,Technology and computing
+3016,Non-profit - Government/Education,references,
+3023,TV/Movies Related - Entertainment,references,
+3046,Services,references,
+3046,Technology,references,Technology and computing
+3046,Technology,references,Technology and computing
+3046,Energy Technology,references,Energy Technology
+3051,Technology,references,Technology and computing
+3051,Technology,references,Technology and computing
+3051,Energy Technology,references,Energy Technology
+3052,Technology,references,Technology and computing
+3052,Technology,references,Technology and computing
+3052,Energy Technology,references,Energy Technology
+3053,Non-profit - Government/Education,references,
+3061,Non-profit - Government/Education,references,
+3084,Services,references,
+3089,Non-profit - Government/Education,references,
+3093,Non-profit - Government/Education,references,
+3112,Non-profit - Government/Education,references,
+3114,Food,references,Food
+3136,Non-profit - Government/Education,references,
+3148,Non-profit - Government/Education,references,
+3166,Non-profit - Government/Education,references,
+3173,Food,references,Food
+3186,TV/Movies Related - Entertainment,references,
+3197,Non-profit - Government/Education,references,
+3204,Travel,references,Travel
+3208,Non-profit - Government/Education,references,
+3233,Services,references,
+3234,Non-profit - Government/Education,references,
+3243,Science,references,Science
+3243,Geology,references,Geology
+3265,Retirement planning,references,Retirement planning
+3273,Food,references,Food
+3285,Non-profit - Government/Education,references,
+3290,Food,references,Food
+3292,Food,references,Food
+3292,Holistic healing/nutrition,references,Food
+3292,Organic,references,
+3293,Food,references,Food
+3293,Meals,references,Meals
+3299,Non-profit - Government/Education,references,
+3303,Services,references,
+3305,Technology,references,Technology and computing
+3305,Information security,references,Information Security
+3314,Travel,references,Travel
+3373,Non-profit - Government/Education,references,
+3391,Services,references,
+3412,Travel,references,Travel
+3423,Services,references,
+3425,Services,references,
+3426,Services,references,
+3427,Services,references,
+3428,Services,references,
+3432,Services,references,
+3439,TV/Movies Related - Entertainment,references,
+3439,Services,references,
+3439,TV/Movies Related - Entertainment,references,
+3445,Non-profit - Government/Education,references,
+3448,Non-profit - Government/Education,references,
+3454,Non-profit - Government/Education,references,
+3474,Services,references,
+3475,TV/Movies Related - Entertainment,references,
+3495,Food,references,Food
+3521,Genealogy,references,Genealogy
+3526,Non-profit - Government/Education,references,
+3546,Technology,references,Technology and computing
+3546,Energy Technology,references,Energy Technology
+3549,Non-profit - Government/Education,references,
+3575,Non-profit - Government/Education,references,
+3588,Non-profit - Government/Education,references,
+3605,Non-profit - Government/Education,references,
+3615,Services - B2B,references,
+3623,Non-profit - Government/Education,references,
+3624,Non-profit - Government/Education,references,
+3641,Non-profit - Government/Education,references,
+3665,Food,references,Food
+3669,Non-profit - Government/Education,references,
+3683,Non-profit - Government/Education,references,
+3691,Non-profit - Government/Education,references,
+3708,Technology,references,Technology and computing
+3760,Non-profit - Government/Education,references,
+3768,Food,references,Food
+3768,Lunch,references,This entity tracks all conversations that mention lunch.
+3768,Non-profit - Government/Education,references,
+3778,Non-profit - Government/Education,references,
+3779,Non-profit - Government/Education,references,
+3787,US Military,references,US Military
+3794,US Military,references,US Military
+3795,Technology,references,Technology and computing
+3796,Technology,references,Technology and computing
+3798,Travel,references,Travel
+3804,Non-profit - Government/Education,references,
+3814,Non-profit - Government/Education,references,
+3822,Technology,references,Technology and computing
+3822,Science,references,Science
+3822,3D printing,references,
+3850,Food,references,Food
+3850,Meals,references,Meals
+3867,TV/Movies Related - Entertainment,references,
+3872,TV/Movies Related - Entertainment,references,
+3878,Non-profit - Government/Education,references,
+3888,Non-profit - Government/Education,references,
+3898,Services,references,
+3903,Non-profit - Government/Education,references,
+3912,TV/Movies Related - Entertainment,references,
+3913,Non-profit - Government/Education,references,
+3915,Non-profit - Government/Education,references,
+3955,Services,references,
+3957,Non-profit - Government/Education,references,
+3978,Non-profit - Government/Education,references,
+3983,Non-profit - Government/Education,references,
+3987,TV/Movies Related - Entertainment,references,
+4004,Non-profit - Government/Education,references,
+4006,Non-profit - Government/Education,references,
+4020,Non-profit - Government/Education,references,
+4037,Services,references,
+4074,TV/Movies Related - Entertainment,references,
+4078,TV/Movies Related - Entertainment,references,
+4088,Non-profit - Government/Education,references,
+4098,Non-profit - Government/Education,references,
+4101,Financial services,references,
+4124,Non-profit - Government/Education,references,
+4140,Non-profit - Government/Education,references,
+4147,Food,references,Food
+4148,Non-profit - Government/Education,references,
+4155,Retirement planning,references,Retirement planning
+4159,Technology,references,Technology and computing
+4159,Technology,references,Technology and computing
+4159,Energy Technology,references,Energy Technology
+4167,Food,references,Food
+4180,Non-profit - Government/Education,references,
+4183,Food,references,Food
+4183,Meals,references,Meals
+4197,Non-profit - Government/Education,references,
+4198,Non-profit - Government/Education,references,
+4214,Gas/Oil - Energy,references,
+4217,Food,references,Food
+4225,Technology,references,Technology and computing
+4225,Cybersecurity,references,Cybersecurity
+4233,Non-profit - Government/Education,references,
+4235,Non-profit - Government/Education,references,
+4250,Non-profit - Government/Education,references,
+4265,Non-profit - Government/Education,references,
+4293,US Military,references,US Military
+4294,Non-profit - Government/Education,references,
+4308,Non-profit - Government/Education,references,
+4309,Services,references,
+4311,Non-profit - Government/Education,references,
+4330,Non-profit - Government/Education,references,
+4342,Non-profit - Government/Education,references,
+4348,Non-profit - Government/Education,references,
+4374,Non-profit - Government/Education,references,
+4381,Non-profit - Government/Education,references,
+4398,Non-profit - Government/Education,references,
+4420,Food,references,Food
+4420,Meals,references,Meals
+4438,Non-profit - Government/Education,references,
+4460,Non-profit - Government/Education,references,
+4468,Non-profit - Government/Education,references,
+4472,QSR - Dining,references,
+4472,Food,references,Food
+4472,Fast food Restaurants,references,Fast food
+4472,QSR - Dining,references,
+4483,Non-profit - Government/Education,references,
+4490,Non-profit - Government/Education,references,
+4491,Travel,references,Travel
+4501,Non-profit - Government/Education,references,
+4510,Non-profit - Government/Education,references,
+4525,Non-profit - Government/Education,references,
+4534,Non-profit - Government/Education,references,
+4557,Food,references,Food
+4557,Meals,references,Meals
+4574,Non-profit - Government/Education,references,
+4578,Aerospace,references,Aerospace
+4578,Science,references,Science
+4580,Services,references,
+4596,Non-profit - Government/Education,references,
+4602,Services,references,
+4612,Services,references,
+4635,TV/Movies Related - Entertainment,references,
+4644,Financial services,references,
+4651,Services,references,
+4658,Beauty/Hygiene - CPG,references,
+4662,Travel,references,Travel
+4683,Non-profit - Government/Education,references,
+4716,Non-profit - Government/Education,references,
+4751,Travel,references,Travel
+4756,Non-profit - Government/Education,references,
+4763,Services,references,
+4799,Services,references,
+4820,Alcohol - CPG,references,
+4820,Alcohol - CPG,references,
+4823,Non-profit - Government/Education,references,
+4837,Travel,references,Travel
+4841,Non-profit - Government/Education,references,
+4854,Food,references,Food
+4856,Non-profit - Government/Education,references,
+4865,TV/Movies Related - Entertainment,references,
+4900,Non-profit - Government/Education,references,
+4910,Food,references,Food
+4910,Lunch,references,This entity tracks all conversations that mention lunch.
+4913,Non-profit - Government/Education,references,
+4938,Non-profit - Government/Education,references,
+4940,Non-profit - Government/Education,references,
+4953,Non-profit - Government/Education,references,
+4973,Biology,references,Biology
+4988,Non-profit - Government/Education,references,
+5003,TV/Movies Related - Entertainment,references,
+5005,TV/Movies Related - Entertainment,references,
+5021,Services,references,
+5024,Services,references,
+5027,Services,references,
+5028,Train/Bus - Transportation,references,
+5046,Retirement planning,references,Retirement planning
+5051,Travel,references,Travel
+5057,Non-profit - Government/Education,references,
+5095,Non-profit - Government/Education,references,
+5107,Technology,references,Technology and computing
+5107,Cybersecurity,references,Cybersecurity
+5112,Gas/Oil - Energy,references,
+5113,Gas/Oil - Energy,references,
+5140,TV/Movies Related - Entertainment,references,
+5143,TV/Movies Related - Entertainment,references,
+5144,TV/Movies Related - Entertainment,references,
+5145,TV/Movies Related - Entertainment,references,
+5162,Non-profit - Government/Education,references,
+5169,Aerospace,references,Aerospace
+5169,Science,references,Science
+5182,Non-profit - Government/Education,references,
+5210,TV/Movies Related - Entertainment,references,
+5215,Non-profit - Government/Education,references,
+5230,Food,references,Food
+5235,Travel,references,Travel
+5236,Travel,references,Travel
+5238,Grocery/Convenience - Retail,references,
+5239,Non-profit - Government/Education,references,
+5251,Non-profit - Government/Education,references,
+5253,Travel,references,Travel
+5260,Non-profit - Government/Education,references,
+5261,Non-profit - Government/Education,references,
+5261,Pets,references,Pets
+5261,Dogs,references,Dogs
+5267,TV/Movies Related - Entertainment,references,
+5269,Non-profit - Government/Education,references,
+5271,Technology,references,Technology and computing
+5271,Energy Technology,references,Energy Technology
+5278,TV/Movies Related - Entertainment,references,
+5280,Non-profit - Government/Education,references,
+5288,Non-profit - Government/Education,references,
+5291,Non-profit - Government/Education,references,
+5298,Travel,references,Travel
+5302,Multi-Purpose Department - Retail,references,
+5303,Travel,references,Travel
+5305,Non-profit - Government/Education,references,
+5307,Non-profit - Government/Education,references,
+5319,Services,references,
+5320,Services,references,
+5367,Non-profit - Government/Education,references,
+5371,Non-profit - Government/Education,references,
+5406,Industries,references,
+5415,Non-profit - Government/Education,references,
+5415,Technology,references,Technology and computing
+5440,TV/Movies Related - Entertainment,references,
+5450,Aerospace,references,Aerospace
+5450,Science,references,Science
+5458,US Military,references,US Military
+5463,Non-profit - Government/Education,references,
+5466,Technology,references,Technology and computing
+5481,Travel,references,Travel
+5481,US Military,references,US Military
+5491,Gas/Oil - Energy,references,
+5508,Services,references,
+5509,Technology,references,Technology and computing
+5509,Energy Technology,references,Energy Technology
+5514,Non-profit - Government/Education,references,
+5544,Retirement planning,references,Retirement planning
+5557,Lunch,references,This entity tracks all conversations that mention lunch.
+5596,Products - B2B,references,
+5635,Beverage - CPG,references,
+5635,Food,references,Food
+5651,TV/Movies Related - Entertainment,references,
+5654,TV/Movies Related - Entertainment,references,
+5656,TV/Movies Related - Entertainment,references,
+5663,TV/Movies Related - Entertainment,references,
+5667,Non-profit - Government/Education,references,
+5678,Non-profit - Government/Education,references,
+5679,US Military,references,US Military
+5687,Gas/Oil - Energy,references,
+5699,Non-profit - Government/Education,references,
+5717,Food,references,Food
+5733,TV/Movies Related - Entertainment,references,
+5737,Non-profit - Government/Education,references,
+5745,TV/Movies Related - Entertainment,references,
+5749,Financial services,references,
+5755,Non-profit - Government/Education,references,
+5764,Non-profit - Government/Education,references,
+5774,Services,references,
+5779,Bitcoin cryptocurrency,references,Bitcoin Cryptocurrency
+5795,TV/Movies Related - Entertainment,references,
+5812,TV/Movies Related - Entertainment,references,
+5848,Travel,references,Travel
+5861,Non-profit - Government/Education,references,
+5875,Education Related - Government/Education,references,
+5908,Non-profit - Government/Education,references,
+5909,5G,references,5G
+5916,Services,references,
+5929,Non-profit - Government/Education,references,
+5931,Travel,references,Travel
+5940,Industries,references,
+5967,Services,references,
+5992,Grocery/Convenience - Retail,references,
+6000,Travel,references,Travel
+6001,Services,references,
+6010,Travel,references,Travel
+6011,Grocery/Convenience - Retail,references,
+6012,Grocery/Convenience - Retail,references,
+6013,Non-profit - Government/Education,references,
+6020,Non-profit - Government/Education,references,
+6022,Lunch,references,This entity tracks all conversations that mention lunch.

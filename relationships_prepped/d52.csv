@@ -1,0 +1,143 @@
+:START_ID(Tweet),:END_ID(News Vertical-ca),:TYPE,Specification
+30,Russia national news,references,
+200,Russia national news,references,
+224,Political News,references,Political News
+244,Political News,references,Political News
+402,Political News,references,Political News
+404,US national news,references,US National News
+426,Political News,references,Political News
+445,Political News,references,Political News
+445,Business news,references,Business & Finance News
+477,Political News,references,Political News
+512,Russia national news,references,
+643,US national news,references,US National News
+683,United States politics,references,
+802,Political News,references,Political News
+809,Russia national news,references,
+835,Political News,references,Political News
+836,Political News,references,Political News
+891,Russia national news,references,
+912,Political News,references,Political News
+1036,News,references,News
+1036,Business & finance news,references,
+1149,Political News,references,Political News
+1161,Political News,references,Political News
+1197,Political News,references,Political News
+1299,News,references,News
+1299,Business & finance news,references,
+1358,Political News,references,Political News
+1450,Health news,references,Health News
+1451,Health news,references,Health News
+1454,Political News,references,Political News
+1501,Political News,references,Political News
+1524,Political News,references,Political News
+1549,US national news,references,US National News
+1612,US national news,references,US National News
+1674,Political News,references,Political News
+1738,Political News,references,Political News
+1770,Political News,references,Political News
+1774,News,references,News
+1774,Business & finance news,references,
+1873,News,references,News
+1873,Business & finance news,references,
+1898,Political News,references,Political News
+1919,Political News,references,Political News
+1925,Political News,references,Political News
+1927,Political News,references,Political News
+1930,Political News,references,Political News
+2014,Political News,references,Political News
+2210,Political News,references,Political News
+2356,Political News,references,Political News
+2363,Political News,references,Political News
+2367,US national news,references,US National News
+2375,Political News,references,Political News
+2377,Political News,references,Political News
+2457,Russia national news,references,
+2466,Political News,references,Political News
+2615,Political News,references,Political News
+2619,News,references,News
+2619,Business & finance news,references,
+2646,Political News,references,Political News
+2820,News,references,News
+2820,Business & finance news,references,
+2876,Political News,references,Political News
+2941,Political News,references,Political News
+2964,Political News,references,Political News
+3313,United States politics,references,
+3318,Political News,references,Political News
+3318,United States politics,references,
+3319,Political News,references,Political News
+3323,Russia national news,references,
+3332,Political News,references,Political News
+3351,Political News,references,Political News
+3358,Political News,references,Political News
+3359,Political News,references,Political News
+3382,Political News,references,Political News
+3383,Political News,references,Political News
+3392,Political News,references,Political News
+3428,News,references,News
+3428,Business & finance news,references,
+3523,Russia national news,references,
+3716,Political News,references,Political News
+3962,Political News,references,Political News
+4097,Political News,references,Political News
+4108,United States politics,references,
+4153,United States politics,references,
+4161,Political News,references,Political News
+4161,Business news,references,Business & Finance News
+4162,Political News,references,Political News
+4162,Business news,references,Business & Finance News
+4201,Political News,references,Political News
+4252,Political News,references,Political News
+4282,Political News,references,Political News
+4329,United States politics,references,
+4499,Political News,references,Political News
+4563,Political News,references,Political News
+4647,Political News,references,Political News
+4738,Political News,references,Political News
+4869,Political News,references,Political News
+4914,Political News,references,Political News
+4996,Political News,references,Political News
+5021,News,references,News
+5021,Business & finance news,references,
+5041,Political News,references,Political News
+5044,Political News,references,Political News
+5045,United States politics,references,
+5081,US national news,references,US National News
+5128,Political News,references,Political News
+5140,US national news,references,US National News
+5166,News,references,News
+5166,Business & finance news,references,
+5285,Political News,references,Political News
+5311,Political News,references,Political News
+5311,Business news,references,Business & Finance News
+5330,Political News,references,Political News
+5440,US national news,references,US National News
+5455,News,references,News
+5455,Business & finance news,references,
+5456,News,references,News
+5456,Business & finance news,references,
+5458,US national news,references,US National News
+5491,Political News,references,Political News
+5558,Political News,references,Political News
+5561,Political News,references,Political News
+5572,Political News,references,Political News
+5573,Political News,references,Political News
+5736,US national news,references,US National News
+5749,Political News,references,Political News
+5773,News,references,News
+5773,Business & finance news,references,
+5782,News,references,News
+5782,Business & finance news,references,
+5786,News,references,News
+5786,Business & finance news,references,
+5825,News,references,News
+5825,Business & finance news,references,
+5835,News,references,News
+5835,Business & finance news,references,
+5837,News,references,News
+5837,Business & finance news,references,
+5838,News,references,News
+5838,Business & finance news,references,
+5838,United States politics,references,
+5842,US national news,references,US National News

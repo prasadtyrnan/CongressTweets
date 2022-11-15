@@ -1,0 +1,139 @@
+:START_ID(Tweet),:END_ID(Sports League-ca),:TYPE,Specification
+395,MLB,references,
+598,NCAA Football,references,"NCAA Men's Football"", 'Sports League,SEC football"
+598,SEC-EAST,references,
+598,I-A,references,
+599,NCAA Football,references,"NCAA Men's Football"", 'Sports League,SEC football"
+599,SEC-EAST,references,
+599,I-A,references,
+768,NBA,references,
+813,MLB,references,
+877,NBA,references,
+1061,MLB,references,
+1137,NCAA Football,references,"NCAA Men's Football"", 'Sports League,BIG-TEN-WEST"
+1137,Big 10 football,references,
+1137,BIG-TEN-EAST,references,
+1137,I-A,references,
+1152,NCAA Football,references,"NCAA Men's Football"", 'Sports League,Big 10 football"
+1152,BIG-TEN-EAST,references,
+1152,I-A,references,
+1186,NCAA Football,references,"NCAA Men's Football"", 'Sports League,ACC football"
+1186,I-A,references,
+1187,NBA,references,
+1429,MLS,references,
+1530,MLB,references,
+1532,MLB,references,
+1661,MLB,references,
+1663,MLB,references,
+1664,MLB,references,
+1666,MLB,references,
+1720,USA - Soccer,references,
+1720,MLS,references,
+1727,NCAA Football,references,"NCAA Men's Football"", 'Sports League,I-A"
+1727,Conference USA,references,
+1731,NBA,references,
+2160,MLB,references,
+2161,MLB,references,
+2162,MLB,references,
+2163,MLB,references,
+2164,MLB,references,
+2164,MLB,references,
+2165,MLB,references,
+2166,MLB,references,
+2167,MLB,references,
+2168,MLB,references,
+2169,MLB,references,
+2169,MLB,references,
+2170,MLB,references,
+2171,MLB,references,
+2171,MLB,references,
+2831,Premier League,references,
+2894,MLB,references,
+3054,Big Ten,references,
+3054,Southwestern Athletic,references,
+3054,"NCAA Men's Basketball""",references," 'Sports League,NCAA Division I"
+3161,MLB,references,
+3162,MLB,references,
+3269,NCAA Football,references,"NCAA Men's Football"", 'Sports League,Big 10 football"
+3269,BIG-TEN-EAST,references,
+3269,I-A,references,
+3271,NCAA Football,references,"NCAA Men's Football"", 'Sports League,Big 10 football"
+3271,BIG-TEN-EAST,references,
+3271,I-A,references,
+3463,MLB,references,
+3824,NFL,references,
+4077,MLB,references,
+4378,MLB,references,
+4434,NBA,references,
+4554,USA - Soccer,references,
+4554,MLS,references,
+4644,England - Soccer,references,
+4644,Premier League,references,
+4644,MLB,references,
+4661,NFL,references,
+4820,2022 FIFA World Cup,references,
+4820,"FIFA Men's World Cup""",references," 'Events [Entity Service],2022 FIFA World Cup"
+4982,NCAA Football,references,"NCAA Men's Football"", 'Sports League,SEC football"
+4982,SEC-WEST,references,
+4982,I-A,references,
+4983,NCAA Football,references,"NCAA Men's Football"", 'Sports League,SEC football"
+4983,SEC-WEST,references,
+4983,I-A,references,
+5000,NCAA Football,references,"NCAA Men's Football"", 'Sports League,SEC football"
+5000,SEC-WEST,references,
+5000,I-A,references,
+5001,NCAA Football,references,"NCAA Men's Football"", 'Sports League,SEC football"
+5001,SEC-WEST,references,
+5001,I-A,references,
+5002,NCAA Football,references,"NCAA Men's Football"", 'Sports League,SEC football"
+5002,SEC-WEST,references,
+5002,I-A,references,
+5003,NCAA Football,references,"NCAA Men's Football"", 'Sports League,SEC football"
+5003,SEC-WEST,references,
+5003,I-A,references,
+5004,NCAA Football,references,"NCAA Men's Football"", 'Sports League,SEC football"
+5004,SEC-WEST,references,
+5004,I-A,references,
+5005,NCAA Football,references,"NCAA Men's Football"", 'Sports League,SEC football"
+5005,SEC-WEST,references,
+5005,I-A,references,
+5006,NCAA Football,references,"NCAA Men's Football"", 'Sports League,SEC football"
+5006,SEC-WEST,references,
+5006,I-A,references,
+5007,NCAA Football,references,"NCAA Men's Football"", 'Sports League,SEC football"
+5007,SEC-WEST,references,
+5007,I-A,references,
+5008,NCAA Football,references,"NCAA Men's Football"", 'Sports League,SEC football"
+5008,SEC-WEST,references,
+5008,I-A,references,
+5009,NCAA Football,references,"NCAA Men's Football"", 'Sports League,SEC football"
+5009,SEC-WEST,references,
+5009,I-A,references,
+5010,NCAA Football,references,"NCAA Men's Football"", 'Sports League,I-A"
+5010,American Athletic,references,
+5016,NCAA Football,references,"NCAA Men's Football"", 'Sports League,SEC football"
+5016,SEC-WEST,references,
+5016,I-A,references,
+5091,Big Ten,references,
+5091,"NCAA Men's Basketball""",references," 'Sports League,West Coast"
+5091,NCAA Division I,references,
+5280,NFL,references,
+5374,"FIFA Men's World Cup""",references," 'Business Taxonomy,Sports & Fitness Business,Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues"
+5436,NFL,references,
+5452,NCAA Football,references,"NCAA Men's Football"", 'Sports League,Big 10 football"
+5452,BIG-TEN-EAST,references,
+5452,I-A,references,
+5498,NBA,references,
+5556,NBA,references,
+5612,England - Soccer,references,
+5612,Premier League,references,
+5686,NCAA Football,references,"NCAA Men's Football"", 'Events [Entity Service],2022 United States midterm elections"
+5832,MLB,references,
+5846,MLB,references,
+5854,MLB,references,
+5877,MLB,references,
+5986,NCAA Football,references,"NCAA Men's Football"", 'Sports League,Big 12 football"
+5986,I-A,references,
+5987,NCAA Football,references,"NCAA Men's Football"", 'Sports League,SUN-BELT-EAST"
+5987,I-A,references,
+5987,Sun Belt,references,

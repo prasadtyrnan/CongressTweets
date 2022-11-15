@@ -1,0 +1,2788 @@
+:START_ID(Tweet),:END_ID(Place),:TYPE
+3,United States,references
+4,North Carolina,references
+5,North Carolina,references
+7,Charlotte,references
+10,Blue Line,references
+10,CityLYNX,references
+14,United States,references
+15,Alabama,references
+19,Statesboro,references
+25,North Texas,references
+26,Richardson,references
+26,DC,references
+28,United States,references
+30,Russia,references
+31,Dallas County,references
+32,Richardson City Hall,references
+34,GoLink,references
+36,Texas,references
+37,Dallas,references
+40,Nevada,references
+43,America,references
+45,North Dakotans,references
+47,West Texas,references
+50,West Texas,references
+52,America,references
+52,Texas,references
+55,Terry County,references
+55,Texas,references
+65,Iowa,references
+65,Iowa,references
+67,US,references
+68,America,references
+70,Delaware,references
+71,America,references
+73,Afghanistan,references
+73,U.S.,references
+87,America,references
+93,America,references
+98,US,references
+98,Estonia,references
+98,Latvia,references
+98,Lithuania,references
+99,Camp Ashland,references
+99,Nebraska Guard,references
+101,America,references
+103,China,references
+105,Iwo Jima,references
+105,Okinawa,references
+105,Chosin Reservoir,references
+105,Middle East,references
+108,Vietnam,references
+108,America,references
+110,Indiana,references
+111,Indiana,references
+111,Washington,references
+111,Indiana,references
+113,America,references
+118,U.S.,references
+118,Licking County,references
+118,OH-12,references
+121,Hong Kong,references
+126,China,references
+126,Washington,references
+127,America,references
+127,China,references
+128,America,references
+129,Lexington,references
+131,Estill County,references
+131,Kentucky,references
+134,Millersburg,references
+135,America,references
+139,United States,references
+141,US,references
+142,Willowbrook,references
+143,U.S.,references
+144,CA,references
+144,CA,references
+144,US,references
+145,United States,references
+145,Egypt,references
+149,U.S.,references
+157,Ohio,references
+164,Eastern Oregon,references
+164,Southern Oregon,references
+165,America,references
+171,SacramentoCounty,references
+174,Sacramento County,references
+179,Russia,references
+179,Ukraine,references
+180,Kherson,references
+180,Khe,references
+188,America,references
+190,Mastodon,references
+191,08,references
+200,Ukraine,references
+203,Alexandria,references
+204,Fairfax County Government Center,references
+214,US,references
+215,Northern Virginia,references
+219,Northern Virginians,references
+219,U.S.,references
+221,VIRGINIA,references
+223,Herndon,references
+227,ArlingtonVo,references
+235,US,references
+240,Egypt,references
+246,America,references
+246,America,references
+246,Oklahoma,references
+246,US,references
+250,America,references
+255,America,references
+263,America,references
+266,U.S. Marines,references
+267,America,references
+268,America,references
+273,U.S. coal,references
+273,China,references
+273,America,references
+276,America,references
+289,Yuma,references
+289,AZ,references
+293,Tampa Bay,references
+294,Tampa Bay,references
+299,Pasco County,references
+301,Florida,references
+304,Washington,references
+308,Fort Meyers,references
+311,Florida,references
+312,Florida,references
+314,North Carolina,references
+315,Marine Corps,references
+323,southeastern,references
+323,US,references
+323,Florida,references
+323,Southwest,references
+323,Georgia,references
+325,New Castle,references
+325,Delaware,references
+326,United States,references
+328,Delaware,references
+329,Delaware,references
+330,Delaware,references
+332,U.S. Capitol,references
+332,Betty,references
+332,Delta,references
+332,CO,references
+333,Vietnam,references
+336,U.S.,references
+343,Egypt,references
+343,U.S.,references
+345,U.S.,references
+348,U.S.,references
+360,U.S.,references
+363,Oregon,references
+370,Oregon,references
+380,Southern Illinois,references
+383,Gwinnett,references
+384,Georgia,references
+385,Georgia,references
+386,United States,references
+389,Philadelphia,references
+389,DC,references
+391,United States,references
+391,America,references
+394,America,references
+396,\u2069 Montgomery Co,references
+396, in ,references
+399,U.S.,references
+399,China,references
+401,White House,references
+401,U.S.,references
+404,America,references
+405,White House,references
+406,America,references
+410,U.S.,references
+415,Ohio,references
+416,U.S.,references
+425,Ohio,references
+425,Eleventh District,references
+429,Berlin Wall,references
+435,United States,references
+436,Euclid Ave,references
+443,Court,references
+444,U.S.,references
+445,U.S.,references
+455,Wisconsin,references
+455,Indiana,references
+455,Ohio,references
+458,America,references
+463,America,references
+473,USA,references
+474,US,references
+475,Hillsborough,references
+478,US,references
+478,America,references
+479,America,references
+480,Rio Grande Sector,references
+480,Border Patrol,references
+481,Southwest Border,references
+481,Senegal,references
+481,Texas,references
+481,United States,references
+485,States Marine Corps,references
+486,Main Street,references
+486,Washington,references
+488,America,references
+493,America,references
+497,Grainger County Department of Sanitation,references
+503,Texas,references
+505,TX,references
+505,Flower Mound,references
+505,Keller,references
+505,Alamodome,references
+505,San Antonio,references
+505,North Texas,references
+506,America,references
+509,St. Louis,references
+512,Russia,references
+516,St. Louis,references
+527,U.S.,references
+529,North Florida,references
+533,U.S. Marine Corps,references
+533,U.S.,references
+535,Florida,references
+535,Gainesville,references
+536,Florida,references
+538,US,references
+543,Central Coast,references
+546,Lompoc,references
+546,Central Coast,references
+549,Santa Barbara,references
+549,Carpinteria,references
+549,Montecito,references
+550,California,references
+551,Costa Central,references
+552,America,references
+553,Santa Barbara,references
+554,Central Coast,references
+563,San Fernando Valley,references
+566,Northeast,references
+566,San Fernando Valley,references
+567,Northeast,references
+567,San Fernando Valley,references
+582,Marion County,references
+583,Georgia,references
+585,Bryan County,references
+586,Bryan County,references
+586,Georgia,references
+592,GA,references
+592,SC,references
+593,Georgia,references
+597,America,references
+602,America,references
+607,Grand Marshal,references
+607,Gentilly,references
+609,LA02,references
+611,USMC,references
+612,LA02,references
+614,LA02,references
+615,LA02,references
+615,Louisiana,references
+617,LA02,references
+618,Louisiana,references
+619,LA02,references
+620,NOLA,references
+620,Tanzania,references
+620,Tanzania,references
+620,TZ,references
+620,LA02,references
+621,NOLA,references
+621,Tanzania,references
+621,US,references
+623,New Orleans,references
+623,LA02,references
+624,LA02,references
+625,Luzerne County,references
+633,Honolulu Hale,references
+635,U.S. Department of Justice,references
+642,Illinois,references
+643,Illinois,references
+646,Tampa Bay,references
+651,TampaBay,references
+658,Egypt,references
+658,U.S.,references
+662,Tampa,references
+672,San Antonio,references
+678,San Antonio,references
+681,California,references
+683,U.S. Supreme Court,references
+683,San Antonio,references
+683,West Side,references
+685,Ohio,references
+689,San Antonians,references
+690,South Texa,references
+693,San Antonio,references
+694,Tennessee,references
+696,Texas,references
+697,San Antonians,references
+701,San Antonians,references
+707,Starr County,references
+707,Texas,references
+710,Texas,references
+713,North Carolina,references
+714,America,references
+723,Broward,references
+723,Palm Beach,references
+725,Palm,references
+725,Broward Counties,references
+733,Infantry Lodge,references
+736,Rhode Island,references
+737,Rhode Island,references
+738,Marine Corps,references
+741,Rhode Island,references
+741,RI-02,references
+748,Donovan Manor,references
+748,Newport,references
+752,LGBTQ+,references
+756,Warren,references
+757,Bristol,references
+758,Barrington,references
+759,Barrington,references
+764,Providence,references
+765,Rhode Island,references
+767,Rhode Island,references
+772,Rhode Island,references
+773,Infantry Lodge,references
+774,Rhode Island,references
+781,Rhode Island,references
+781,DC,references
+784,Marine Corps,references
+787,Rhode Island,references
+787,Providence,references
+789,Cambridge,references
+789,America,references
+790,New Mexico,references
+799,Massachusetts,references
+800,America,references
+805,America,references
+806,YAI,references
+821,Missouri,references
+823,America,references
+826,KC,references
+826,Philadelphia,references
+826,NYC,references
+826,America,references
+827,Kansas City,references
+827,KC,references
+829,Ukraine,references
+829,United States,references
+829,StandWithUkraine,references
+831,Missouri,references
+833,Missouri,references
+834,America,references
+834,America,references
+839,America,references
+840,America,references
+842,Marine Corps,references
+842,Montezuma,references
+842,Tripoli,references
+842,Iwo Jima,references
+843,Airedale,references
+843,Rockbridge,references
+844,Virginia,references
+851,Washington,references
+857,Parris Island,references
+857,South Carolina,references
+874,America,references
+875,U.S. Marine Corps,references
+890,Ukraine,references
+890,Russia,references
+891,Russia,references
+891,Ukraine,references
+894,Memphis,references
+899,",or Ame",references
+902,US,references
+904,Tennessee,references
+905,Tennessee,references
+906,United States,references
+913,U.S.,references
+917,Washington,references
+918,U.S.,references
+929,U.S.,references
+930,U.S.,references
+933,Central Valley,references
+933,U.S.,references
+936,CA,references
+937,Tulare,references
+937,Valley Ag,references
+941,-495,references
+941,Tysons,references
+944,Virginia,references
+945,Virginia,references
+947,America,references
+948,Virginia,references
+968,US,references
+968,New London,references
+968,New London,references
+969,U.S. Marine Corps,references
+970,Washington,references
+972,Connecticut,references
+973,New London,references
+973,Thames River,references
+973,New London,references
+974,SUBASE,references
+974,New London,references
+975,US,references
+976,The Grange,references
+976,Sterling,references
+977,The,references
+977,Grange,references
+977,Connecticut,references
+978,America,references
+981,Minnesota,references
+987,Berlin Wall,references
+987,Berlin Wall,references
+988,Cuba,references
+988,China,references
+988,Venezuela,references
+993,Aurora,references
+998,TX,references
+998,South Texas,references
+1000,Blanding,references
+1003,U.S.,references
+1006,America,references
+1008,Kansans,references
+1010,Spring Hill,references
+1013,Kansas,references
+1019,Miami County,references
+1027,l ,references
+1029,America,references
+1031,America,references
+1034,Florida,references
+1034,Florida,references
+1036,America,references
+1037,Washington,references
+1042,China,references
+1046,America,references
+1050,Chicago,references
+1051,America,references
+1054,U.S,references
+1059,Berks,references
+1059,Montgomery,references
+1060,America,references
+1069,United States,references
+1070,Connecticut,references
+1071,Connecticut,references
+1072,Derby,references
+1073,Connecticut,references
+1074,WA,references
+1075,Mill Creek,references
+1076,WA,references
+1079,WA,references
+1082,Snohomish Co,references
+1083,U.S. Forest Service,references
+1085,Marysville,references
+1097,Orange County,references
+1099,Flowers Avenue,references
+1099,Orlando,references
+1099,Apopka,references
+1099,Orlando,references
+1104,Southwest Atlantic,references
+1104,Florida,references
+1108,Contra Costa County,references
+1109,California,references
+1109,CA,references
+1116,San Pablo,references
+1121,Quantico Virginia,references
+1125,Palm Beach,references
+1125,Glades,references
+1125,Hendry,references
+1125,Lake Okeechobee,references
+1126,Florida,references
+1127,Collier County,references
+1129,Hendry County,references
+1129,Hendry County,references
+1131,Florida,references
+1134,Florida,references
+1136,America,references
+1146,Michigan,references
+1151,Michigan,references
+1153,America,references
+1162,Texas,references
+1169,Texas,references
+1178,Southwest,references
+1178,Florida,references
+1180,Florida,references
+1181,Florida,references
+1183,U.S. Marine Corps,references
+1183,America,references
+1184,Florida,references
+1187,America,references
+1189,Pennsylvania,references
+1191,Vietnam,references
+1194,U.S. military,references
+1199,United States,references
+1199,South Carolina,references
+1200,South Carolinians,references
+1203,United States,references
+1206,Venezuela,references
+1207,Granholm,references
+1207,U.S.,references
+1209,Chaco Culture National Historical Park,references
+1211,U.S. Appeals Court,references
+1213,Granholm,references
+1215,CA,references
+1218,China,references
+1218,SPR,references
+1218,U.S.,references
+1218,China,references
+1218,U.S.,references
+1221,Permian Basin,references
+1223,Alaska,references
+1223,Bristol Bay,references
+1227,Gulf of Mexico,references
+1229,California,references
+1230,Cook Inlet,references
+1230,Alaska,references
+1232,Alaska,references
+1233,U.S. Climate,references
+1233,U.S.,references
+1234,White,references
+1240,United States,references
+1241,U.S.,references
+1248,U.S.,references
+1250,CA,references
+1250,CA,references
+1252,U.S.,references
+1253,Nevada,references
+1253,Utah,references
+1253,Wyoming,references
+1261,CA,references
+1261,CA,references
+1261,CA,references
+1265,Arctic,references
+1269,Chaco Canyon,references
+1270,China,references
+1271,Russia,references
+1271,China,references
+1271,US,references
+1276,Northeast Canyons,references
+1276,Marine National Monument,references
+1282,White House,references
+1282,Russia,references
+1288,California,references
+1288,California,references
+1290,U.S. International Climate Finance Plan,references
+1291,St. Louis,references
+1294,St. Cloud VA,references
+1296,Inver Grove Heights,references
+1298,Marine Corps,references
+1301,America,references
+1311,U.S.,references
+1313,America,references
+1316,United States,references
+1317,El Paso,references
+1320,El Paso,references
+1320,El Paso,references
+1324,America,references
+1327,United States,references
+1338,Estados Unidos,references
+1339,United States,references
+1346,Egypt,references
+1347,EE.UU.,references
+1348,U.S.,references
+1349,Marina,references
+1349,Estados Unidos,references
+1350,United States,references
+1351,Egipto,references
+1352,El-Sheikh,references
+1352,Egypt,references
+1353,Egypt,references
+1354,NY-13,references
+1356,NY-13,references
+1372,Estados Unidos,references
+1381,America,references
+1382,Kansas,references
+1383,America,references
+1385,Philadelphia,references
+1394,Pennsylvania,references
+1398,KC,references
+1398,Philadelphia,references
+1398,NYC,references
+1398,America,references
+1401,Pennsylvania,references
+1407,City Hall,references
+1425,PA,references
+1431,PA,references
+1434,Pennsylvania,references
+1435,South Side City Hall,references
+1442,Pennsylvania,references
+1443,Pennsylvania,references
+1470,Iran,references
+1471,Texas,references
+1471,North Texas,references
+1471,Washington,references
+1473,Iran,references
+1475,Iran,references
+1481,America,references
+1482,America,references
+1484,America,references
+1485,America,references
+1487,Lake City,references
+1490,Mason City,references
+1490,Poland,references
+1498,America,references
+1500,America,references
+1502,MN07,references
+1505,U.S. Service Academies,references
+1507,Glenroy,references
+1507,Inc,references
+1509,America,references
+1511,MontCo,references
+1514,U.S. Marine Corps,references
+1518,America,references
+1520,Chattanooga,references
+1520,Novolex,references
+1522,Tennessee,references
+1523,DC,references
+1525,America,references
+1528,U.S. Marine Corps,references
+1532,Houston,references
+1540,United States Marine Corps,references
+1547,Brownsville,references
+1547,Brownsville,references
+1559,North Wilkesboro,references
+1561,Korean Peninsula,references
+1573,United States,references
+1573,Canada,references
+1573,Canada,references
+1579,America,references
+1590,Northeast Wisconsinites,references
+1591,America,references
+1592,Northeast,references
+1592,Wisconsin,references
+1596,Vietnam,references
+1598,Vietnam,references
+1600,US Marine Corps,references
+1608,Solano County,references
+1611,U.S. Marine Corps,references
+1612,America,references
+1616,California,references
+1622,America,references
+1624,U.S.,references
+1624,China,references
+1628,NY,references
+1631,New York,references
+1637,Santa Clarita,references
+1638,Lake Hughes,references
+1638,Antelope Valley,references
+1641,DC,references
+1650,East Harris County Activity Center,references
+1650,Pasadena,references
+1660,Harris County,references
+1661,Houston,references
+1664,Houston,references
+1666,Houston,references
+1668,Mexico,references
+1676,Illinois,references
+1677,Illinois,references
+1679,Brookfield Zoo,references
+1683,South Florida,references
+1683,South Florida,references
+1685,Marine Corps,references
+1701,California,references
+1704,CA34,references
+1705,California,references
+1712,RamonaGardens,references
+1714,HighlandPark,references
+1715,BoyleHeights,references
+1716,Chinatown,references
+1716,Cathay Manor,references
+1716,CA34,references
+1717,DC,references
+1718,NELA,references
+1719,BoyleHeights,references
+1726,CA34,references
+1731,San Antonio,references
+1742,Carrizo Springs,references
+1743,Rebecca Creek,references
+1743,San Antonio,references
+1743,TX23,references
+1745,Iran,references
+1746,South Texas,references
+1747,America,references
+1757,Cabo Rojo,references
+1758,Guayanilla,references
+1759,Puerto Rico,references
+1764,Vietnam,references
+1766,Texas,references
+1766,Florida,references
+1766,Arizona,references
+1783,Wild Duck Pond,references
+1783,Saddle River County Park,references
+1784,Jersey,references
+1785,Paramus,references
+1788,NJ,references
+1789,New Jersey,references
+1792,New Jersey,references
+1792,New Jersey,references
+1793,Maywood,references
+1793,North Jersey,references
+1794,China,references
+1797,Fifth District,references
+1798,Washington,references
+1800,North Jersey,references
+1800,Upper Saddle River,references
+1810,U.N. Climate Conference,references
+1810,US,references
+1810,Africa,references
+1813,Baton Rouge Parish,references
+1813,Jones Creek,references
+1813,Ward Creek,references
+1813,Bayou Fountain,references
+1813,Blackwater Bayou,references
+1813,Beaver Bayou,references
+1814,Jones Creek,references
+1814,Amite River Basin,references
+1814,Bayou Fountain,references
+1816,America,references
+1821,Europe,references
+1822,Venezuela,references
+1827,Tennessee,references
+1828,Tennessee,references
+1829,Tennessee,references
+1829,Tennessee,references
+1829,Washington,references
+1832,Afghanistan,references
+1839,Ukraine,references
+1845,America,references
+1848,America,references
+1851,FLA,references
+1851,GA,references
+1851,TX,references
+1855,America,references
+1860,Georgia,references
+1860,Florida,references
+1863,America,references
+1863,Florida,references
+1863,Georgia,references
+1876,America,references
+1877,FL,references
+1877,GA,references
+1877,NY,references
+1877,MI,references
+1881,Georgia,references
+1881,Washington,references
+1881,America,references
+1883,America,references
+1884,Arizona,references
+1886,Mesa,references
+1887,Arizona,references
+1887,New Jersey,references
+1888,France,references
+1892,Ohio,references
+1895,Brazil,references
+1895,US,references
+1899,Madison Avenue,references
+1910,America,references
+1914,Georgia,references
+1934,Afghanistan,references
+1940,Washington,references
+1941,Southwest border,references
+1944,Kentucky,references
+1945,Morgantown,references
+1946,Parrish Ave,references
+1946,Owensboro,references
+1947,Kentucky,references
+1948,Daviess County,references
+1948,Kentucky,references
+1956,Baltimore,references
+1956,Baltimore city,references
+1958,America,references
+1960,America,references
+1961,United States,references
+1961,Egypt,references
+1966,America,references
+1971,America,references
+1974,Washington,references
+1975,US,references
+1979,New Mexico,references
+1979,America,references
+1981,New Mexico,references
+1982,New Mexico,references
+1983,New Mexico,references
+1983,America,references
+1987,U.S. Marine Corps,references
+1988,Marine Corps,references
+1994,WNY,references
+1995,WNY,references
+2001,Western New York,references
+2002,European-African Theatre,references
+2005,Vietnam,references
+2005,Fort Monmouth,references
+2005,Vietnam,references
+2006,Pacific Theater,references
+2007,US,references
+2007,Corps,references
+2007,Saudi Arabia,references
+2007,Kuwait,references
+2008,U.S. Navy,references
+2009,Buffalo,references
+2009,U.S. Army,references
+2009,U.S.,references
+2009,Buffalo,references
+2009,Philadelphia,references
+2009,Dallas,references
+2010,Vietnam,references
+2010,China,references
+2011,U.S. Army,references
+2011,Burma,references
+2011,China,references
+2011,India,references
+2012,Omaha Beach,references
+2012,France,references
+2012,Normandy,references
+2013,WWII,references
+2013,Korea,references
+2013,Vietnam,references
+2013,Kuwait,references
+2013,Iraq,references
+2013,Afghanistan,references
+2016,WNY,references
+2016,US,references
+2017,New,references
+2018,South Louisiana,references
+2019,America,references
+2021,Arkansas,references
+2022,Central Arkansas,references
+2023,Arkansas,references
+2025,Arkansas,references
+2029,America,references
+2029,Iowa,references
+2034,Iowa,references
+2034,Iowa,references
+2035,Iowa,references
+2037,Southern Border,references
+2039,Oelwein,references
+2039,Iowa,references
+2040,America,references
+2040,China,references
+2041,Mason City,references
+2041,America,references
+2042,Main Streets,references
+2042,Washington,references
+2043,Marshalltown,references
+2045,Nevada,references
+2051,Nevada,references
+2053,Nevada,references
+2054,Nevada,references
+2060,Pennsylvania,references
+2061,Coatesville VA,references
+2065,Chester County,references
+2070,Paoli,references
+2071,Paoli Hospital,references
+2072,Paoli Hospital,references
+2072,PA,references
+2073,Paoli Hospital,references
+2073,Chester County,references
+2077,America,references
+2078,America,references
+2084,AmericanRescuePlan,references
+2085,America,references
+2086,Maryland,references
+2086,Prince George’s County,references
+2086,Greenbelt,references
+2089,America,references
+2091,Maryland,references
+2091,Maryland,references
+2095,Vero Beach,references
+2100,U.S. Delegation,references
+2101,Egypt,references
+2101,America,references
+2104,California,references
+2104,District,references
+2106,CA,references
+2107,US,references
+2107,Washington,references
+2108,America,references
+2114,America,references
+2117,Florida,references
+2118,Florida,references
+2121,Iran,references
+2121,Iran,references
+2122,America,references
+2122,Florida,references
+2123,America,references
+2126,America,references
+2127,U.S. Marine Corps,references
+2132,U.S.,references
+2132,Kherson,references
+2133,America,references
+2133,America,references
+2143,America,references
+2146,U.S. House Judiciary Committee,references
+2146,America,references
+2150,Houston,references
+2150,Texas,references
+2152,Harris County,references
+2153,Harris County,references
+2156,Greater Third Ward,references
+2157,Houston,references
+2173,San Diego County,references
+2174,LGBT,references
+2174,LGBTQ+,references
+2176,San Diego,references
+2177,San Diego,references
+2178,Supreme Court,references
+2184,San Diego,references
+2188,America,references
+2193,Seattle,references
+2201,Washington,references
+2215,America,references
+2229,America,references
+2234,D.C,references
+2245,U.S.,references
+2245,China,references
+2246,Gettysburg,references
+2254,America,references
+2257,United States,references
+2260,Georgia,references
+2269,America,references
+2270,U.S. Marine Corps,references
+2271,Louisiana,references
+2278,America,references
+2282,America,references
+2287,Marine Corps,references
+2294,America,references
+2297,America,references
+2299,America,references
+2300,America,references
+2301,America,references
+2305,Ohio,references
+2307,OH,references
+2308,Portage County,references
+2308,Cleveland,references
+2309,Laketran,references
+2313,America,references
+2317,Washington,references
+2321,U.S.,references
+2322,America,references
+2325,Belfast,references
+2325,Derry,references
+2325,Londonderry,references
+2331,Belfast,references
+2335,Stormont,references
+2335,Belfast,references
+2336,Ukraine,references
+2337,Oireactas,references
+2337,Seanad,references
+2337,Dáil,references
+2338,US,references
+2339,Ireland,references
+2339,US,references
+2339,Ireland,references
+2339,US,references
+2339,Ireland,references
+2339,US,references
+2339,EU,references
+2340,China,references
+2340,US,references
+2341,US,references
+2341,Ireland,references
+2341,Ireland,references
+2342,US,references
+2342,Ireland,references
+2342,US,references
+2342,Ireland,references
+2343,Dublin,references
+2343,Massachusetts,references
+2343,Dublin,references
+2344,US,references
+2344,Ireland,references
+2344,US,references
+2344,Uk,references
+2345,Sayre,references
+2345,United States,references
+2346,PA,references
+2348,Sayre,references
+2350,Meuse-Argonne,references
+2352,Snyder County,references
+2353,United States,references
+2353,Pennsylvania,references
+2354,America,references
+2355,America,references
+2357,Erie County,references
+2367,America,references
+2368,Santa Clara,references
+2370,America,references
+2374,Wall Street,references
+2379,Egypt,references
+2380,Wall Street,references
+2382,Michigan,references
+2383,Michigan,references
+2384,Michigan,references
+2385,Michigan,references
+2386,Michigan,references
+2386,Michigan,references
+2387,Michigan,references
+2389,Michigan,references
+2392,Washington,references
+2393,United States,references
+2394,Washington,references
+2398,Vietnam,references
+2398,Tacoma,references
+2410,Southeast Asian American,references
+2410,Jersey,references
+2419,Brea,references
+2420,ChinoHills,references
+2420,United States,references
+2421,U.S. Army,references
+2422,South Korea,references
+2427,Berlin Wall,references
+2427,Europe,references
+2428,Fullerton,references
+2428,Orange County,references
+2435,California,references
+2436,California,references
+2437,Main Street,references
+2438,South Korea,references
+2442,Camp Lejeune,references
+2442,North Carolina,references
+2447,AZ,references
+2450,U.S.,references
+2451,Ukraine,references
+2451,Russia,references
+2455,U.S. Marine Corps,references
+2457,Kherson,references
+2457,Russia,references
+2457,Ukraine,references
+2467,America,references
+2469,United States,references
+2472,Shelby County,references
+2472,TN,references
+2474,Madison County,references
+2475,Obion County,references
+2478,TN,references
+2480,Shelby County,references
+2481,America,references
+2484,Illinois,references
+2488,Northern California,references
+2488,America,references
+2489,Nor Cal,references
+2501,Vandenberg SFB,references
+2503,U.S.,references
+2504,US,references
+2504,US,references
+2505,Colorado,references
+2505,America,references
+2508,Colorado,references
+2511,NY,references
+2513,Rhode Island,references
+2517,Rhode Island,references
+2519,Rhode Island,references
+2520,Everett,references
+2522,WA,references
+2531,United States,references
+2533,Connecticut,references
+2538,Ohio,references
+2540,U.S.,references
+2543,U.S. Marine Corps,references
+2548,Ohio,references
+2549,Washington,references
+2550,Ohio,references
+2550,Washington,references
+2551,Ottawa,references
+2556,Michigan,references
+2557,Michigan,references
+2558,Michigan,references
+2561,Duval County,references
+2562,Jacksonville,references
+2563,ALERTJAX,references
+2563,Duval County,references
+2564,North Florida,references
+2564,Columbia,references
+2565,Tallahassee,references
+2565,Leon County,references
+2565,Leon County,references
+2570,US,references
+2571,California,references
+2571,Vermont,references
+2571,Michigan,references
+2571,Montana,references
+2571,Kentucky,references
+2571,Maryland,references
+2571,Missouri,references
+2571,DC,references
+2571,Nebraska,references
+2572,Berkeley,references
+2572,US,references
+2573,US,references
+2576,UN,references
+2576,El-Sheikh,references
+2576,Egypt,references
+2579,America,references
+2581,Nevada,references
+2581,Washington,references
+2584,Southwest,references
+2590,Goodyear,references
+2590,AZ,references
+2591,Goodyear,references
+2591,AZ,references
+2592,Austin,references
+2592,Sun City West,references
+2592,City West,references
+2592,AZ,references
+2595,U.S. Marine Corps,references
+2596,AZ,references
+2597,AZ,references
+2599,America,references
+2601,Washington,references
+2601,D.C.,references
+2604,America,references
+2608,America,references
+2611,Armenia,references
+2611,Armenia,references
+2612,St. John Armenian Church,references
+2626,CA49,references
+2628,US,references
+2629,Santa Monica,references
+2630,America,references
+2633,Los Angeles district,references
+2635,Los Angeles County,references
+2642,Arizona,references
+2642,Nevada,references
+2642,Florida,references
+2647,Quemado,references
+2647,TX,references
+2650,Washington,references
+2651,Washington,references
+2651,D.C,references
+2665,U.S. Marine Corps,references
+2666,Georgia,references
+2670,Oklahoma,references
+2670,America,references
+2670,America,references
+2671,America,references
+2680,America,references
+2681,Coastal Virginia,references
+2686,James Island County Park,references
+2691,Georgia,references
+2691,North Carolina,references
+2691,South Carolina,references
+2692,South Carolina,references
+2698,Charleston County School District,references
+2701,Beaufort Coun,references
+2702,Downtown Charleston,references
+2704,Charleston Harbor,references
+2710,Charleston,references
+2713,Florida,references
+2715,America,references
+2719,NJ,references
+2722,NJ,references
+2723,NJ,references
+2724,New Jersey,references
+2725,Brooklyn VA,references
+2736,Winston-Salem Northern Beltway,references
+2737,U.S. Marines,references
+2738,America,references
+2739,High Point,references
+2740,North Carolinians,references
+2742,Pleasant Garden,references
+2745,North Carolinians,references
+2746,Gibsonville,references
+2746,Town Hall,references
+2746,Gibsonville,references
+2748,North Carolina,references
+2748,North Carolinians,references
+2750,North Carolinians,references
+2762,Arizona,references
+2762,Arizona,references
+2764,Florida,references
+2764,Florida,references
+2775,Washington DC,references
+2809,Perth,references
+2828,Treasure Coast,references
+2829,Marine Corps,references
+2830,Lake Okeechobee,references
+2833,MacArther Blvd,references
+2836,Palm Beaches,references
+2836,Treasure Coast,references
+2836,Martin County,references
+2836,Palm Beach County,references
+2836,St. Lucie County,references
+2841,U.S.,references
+2845,Sacramento,references
+2849,America,references
+2854,Washington,references
+2856,America,references
+2858,Capitol,references
+2860,America,references
+2861,U.S. Marine Corps,references
+2870,TN,references
+2877,United States,references
+2877,America,references
+2882,Afghanistan,references
+2884,Ukraine,references
+2885,America,references
+2889,US,references
+2899,America,references
+2913,United States,references
+2916,Minnesota,references
+2916,Minnesota,references
+2916,White Bear Lake VFW Post,references
+2916,North St. Paul Veterans Park,references
+2921,Baytown,references
+2921,South Stillwater,references
+2921,Bayport,references
+2923,Minnesota,references
+2923,U.S. House,references
+2925,Fourth District,references
+2928,Russia,references
+2928,Ukraine,references
+2928,UN,references
+2938,Iraq,references
+2938,Virginia,references
+2942,Worcester,references
+2943,Worcester,references
+2944,Worcester,references
+2945,U.S.,references
+2946,Colorado,references
+2947,America,references
+2947,Hatfield,references
+2948,U.S.,references
+2948,Russia,references
+2949,Worcester,references
+2955,America,references
+2957,Massachusetts,references
+2959,Leominster,references
+2959,Northampton,references
+2959,Worcester,references
+2962,Washington,references
+2963,America,references
+2963,Ukraine,references
+2965,Korea,references
+2965,Boston,references
+2976,U.S. military,references
+2976,NY05,references
+2977,NY05,references
+2978,New York,references
+2978,NY05,references
+2979,NY05,references
+2980,New York,references
+2980,NY05,references
+2984,White House,references
+2985,White House,references
+2988,West Michigan,references
+2992,Florida,references
+2994,Kent County,references
+2996,Michigan,references
+2997,Europe,references
+2998,Kent County,references
+2998,Cascade Township,references
+3009,NewYork,references
+3009,Queens,references
+3009,Washington,references
+3010,Queens,references
+3012,Elmhurst Park,references
+3015,Elmhurst,references
+3017,Kissena Park,references
+3018,Ridgewood,references
+3018,Glendale,references
+3018,Maspeth,references
+3019,Queens,references
+3020,America,references
+3024,Luzerne County,references
+3024,Luzerne County,references
+3025,Main Street,references
+3030,Fayette County,references
+3033,Illinois,references
+3033,United States of America,references
+3034,U.S. Marines,references
+3044,Douglas County,references
+3046,China,references
+3051,Iowa,references
+3052,U.S. Pavillion,references
+3057,West Virginia,references
+3059,Southeast,references
+3059,Alabama,references
+3059,America,references
+3060,Alabama,references
+3062,Alabama,references
+3063,Montgomery,references
+3063,Coffee,references
+3064,Alabama,references
+3065,DC,references
+3065,utpol,references
+3069,America,references
+3073,Wisconsin,references
+3076,Wisconsin,references
+3077,Wisconsin,references
+3078,Wisconsin,references
+3079,America,references
+3084,Wisconsin,references
+3096,Supreme Court,references
+3096,Roe,references
+3109,Egypt,references
+3109,U.S.,references
+3116,Florida,references
+3117,U.S,references
+3118,United States,references
+3120,Florida,references
+3120,Seminole,references
+3123,Seminole County Subtropical Storm Nicole,references
+3125,Florida,references
+3126,Florida,references
+3126,Florida,references
+3131,La Puente,references
+3131,Irwindale,references
+3131,United States,references
+3131,America,references
+3136,United States,references
+3139,Camp Hale,references
+3142,America,references
+3146,Texas,references
+3154,Border,references
+3154,El Paso,references
+3160,U.S. border,references
+3160,Houston,references
+3160,Dallas,references
+3160,San Antonio,references
+3168,Central Washington,references
+3169,North Cascades,references
+3171,Central Washington,references
+3172,America,references
+3173,Central Washington,references
+3174,America,references
+3174,Central Washington,references
+3176,Central Washington,references
+3180,Camden,references
+3180,Gloucester County,references
+3183,South Jersey,references
+3183,South Jersey,references
+3184,SJ,references
+3185,South Jersey,references
+3188,Camden,references
+3190,Camden,references
+3194,Camden,references
+3197,U.S. Marine Corps,references
+3198,DC,references
+3200,DC,references
+3202,National Zoo,references
+3202,DC,references
+3203,DC,references
+3204,DC,references
+3210,Capitol Building,references
+3210,D.C,references
+3211,Buckthorn Avenue,references
+3211,Walnut Street,references
+3211,Orange Street,references
+3212,Oak Glen,references
+3212,Forest Falls,references
+3212,Mountain Home Village,references
+3212,Angelus Oaks,references
+3212,Northeast Yuc,references
+3213,San Bernardino County Animal Care,references
+3216,SBCO,references
+3219,United States,references
+3221,El Dorado,references
+3223,California,references
+3223,America,references
+3225,America,references
+3226,NYC,references
+3232,America,references
+3233,Utah,references
+3237,VA,references
+3238,Washington,references
+3238,Utah,references
+3238,District,references
+3239,Sanpete Co,references
+3239,VA,references
+3240,Washington,references
+3242,Utah,references
+3243,America,references
+3248,United States,references
+3250,Egypt,references
+3251,United States,references
+3252,Asbury Park,references
+3254,Egypt,references
+3254,U.S.,references
+3255,Supreme Court,references
+3256,South Dakota,references
+3257,US,references
+3258,Michigan,references
+3258,California,references
+3258,Vermont,references
+3259,NJ,references
+3259,Washington,references
+3261,US,references
+3263,New Jersey,references
+3266,Ukraine,references
+3266,Ukraine,references
+3270,Royal Albert’s Palace,references
+3270,Fords,references
+3271,New Jersey,references
+3272,Ocean Grove,references
+3274,Birmingham,references
+3275,Magic City,references
+3276,Alabama,references
+3278,Alabama,references
+3278,Montevallo,references
+3285,U.S. Marine Corps,references
+3288,California,references
+3289,Santa Cruz County,references
+3290,Fort Ord,references
+3290,CA,references
+3291,Pacific Grove,references
+3291,Central Coast,references
+3292,California,references
+3295,Central Coast,references
+3296,Central Coast,references
+3299,United States,references
+3303,Manchester,references
+3304,Barrington Town Hall,references
+3307,Laconia,references
+3307,Capitol,references
+3316,New Jersey,references
+3316,U.S. Army,references
+3316,Suresnes Cemetery,references
+3316,Armistace100,references
+3317,America,references
+3318,Supreme Court,references
+3322,America,references
+3322,America,references
+3324,America,references
+3326,New Jersey,references
+3329,US Capitol,references
+3331,Congres,references
+3338,US Capitol,references
+3346,America,references
+3368,US Capitol,references
+3371,America,references
+3373,U.S. Marine Corps,references
+3383,America,references
+3391,America,references
+3393,MAGA,references
+3394,US,references
+3395,New Jersey,references
+3402,America,references
+3405,El-Sheikh,references
+3405,Egypt,references
+3405,America,references
+3406,U.S.,references
+3407,America,references
+3410,America,references
+3412,America,references
+3412,America,references
+3412,Paris,references
+3413,Egypt,references
+3414,America,references
+3415,America,references
+3419,Glasgow,references
+3419,U.S.,references
+3419,America,references
+3420,Sharm El-Sheikh,references
+3420,Egypt,references
+3430,China,references
+3430,Russia,references
+3430,North Korea,references
+3430,Iran,references
+3443,America,references
+3443,America,references
+3444,America,references
+3445,U.S.,references
+3446,Marine Corps,references
+3448,U.S.,references
+3452,San Diego,references
+3452,Vietnam,references
+3454,California,references
+3454,San Diego,references
+3454,Marines,references
+3456,California,references
+3462,Vietnam,references
+3464,Egypt,references
+3465,Egypt,references
+3465,Mainers,references
+3469,America,references
+3469,America,references
+3470,America,references
+3470,America,references
+3471,Maine,references
+3472,Georgia,references
+3477,America,references
+3482,Wisconsin,references
+3483,Wisconsin,references
+3484,America,references
+3492,Costa Mesa,references
+3492,Orange County,references
+3493,Orange County,references
+3494,Orange County,references
+3495,Fort Ord,references
+3495,CA,references
+3504,Massachusetts,references
+3506,Massachusetts,references
+3507,Massachusetts,references
+3515,Boston,references
+3518,NC,references
+3520,Iran,references
+3520,Iran,references
+3523,Kherson,references
+3523,Ukraine,references
+3523,ing Ukr,references
+3526,United States,references
+3536,US Marines,references
+3537,Maryland,references
+3537,America,references
+3539,Frederick County,references
+3539,Maryland,references
+3541,America,references
+3541,Ukraine,references
+3544,Ukraine,references
+3547,U.S.,references
+3547,Paris Climate,references
+3547,Pennsylvania,references
+3549,Belleau Wood,references
+3549,Fallujah,references
+3554,Afghanistan,references
+3557,America,references
+3562,America,references
+3564,America,references
+3564,America,references
+3564,America,references
+3567,America,references
+3568,America,references
+3569,America,references
+3574,Eastern Washington,references
+3574,America,references
+3581,Eastern Washington,references
+3582,Eastern Washington,references
+3586,Alabama,references
+3592,America,references
+3595,U.S.,references
+3596,China,references
+3596,Washington,references
+3603,U.S.,references
+3604,Montana,references
+3605,States Marine Corps,references
+3606,Montana,references
+3607,Big Sky Country,references
+3607,Montana,references
+3608,America,references
+3608,Montana,references
+3609,Montana,references
+3610,U.S. Capitol,references
+3611,NC,references
+3614,Zebulon,references
+3617,North Carolina,references
+3618,Raleigh City Farm,references
+3626,Hill Country Veterans Center,references
+3626,National Museum,references
+3626,Pacific War,references
+3626,TX21,references
+3640,Philadelphia,references
+3640,Bunker Hill,references
+3640,Normandy,references
+3641,Parris Island,references
+3641,SC,references
+3653,Capitol,references
+3659,California,references
+3661,Coachella,references
+3672,Hudson Valley,references
+3674,NY19,references
+3675,Mount Zion cemetery,references
+3677,Washington,references
+3677,Washington,references
+3677,Hudson Valley,references
+3678,Greene County,references
+3678,Capitol,references
+3681,Sullivan County,references
+3684,Ohio,references
+3691,United States,references
+3695,PicoRivera,references
+3696,LaMirada,references
+3696,Washington,references
+3697,Artesia,references
+3697,Union Station,references
+3700,Maryland,references
+3704,Chesapeake Bay,references
+3704,Bay Watershed,references
+3711,US,references
+3712,Afghanistan,references
+3728,Illinois,references
+3733,Edgewater,references
+3734,Glenview,references
+3735,Illinois,references
+3736,Illinois,references
+3742,Niles Township,references
+3743,America,references
+3746,IL,references
+3752,College of,references
+3752,Lake County,references
+3753,Westmoor,references
+3757,Wenatchee,references
+3757,Issaquah,references
+3759,America,references
+3762,Georgia,references
+3762,America,references
+3764,U.S.,references
+3771,Hampton VA Medical Center,references
+3775,VIRGINIA,references
+3782,Washington,references
+3787,U.S. military,references
+3792,Selma,references
+3793,Alabama,references
+3794,Alabama,references
+3794,U.S.,references
+3795,Alabama,references
+3795,Alabama,references
+3796,U.S.,references
+3798,National Recreation Area,references
+3799,Telephone Town Hall,references
+3801,LACounty,references
+3802,Encino,references
+3802,Valley,references
+3803,Israel,references
+3803,United States,references
+3803,San Fernando Valley,references
+3811,Essex County,references
+3811,U.S. Armed Forces,references
+3813,Washington,references
+3817,New Jersey,references
+3819,NJ,references
+3821,Marine Corps,references
+3823,Idaho,references
+3825,Idaho Ag,references
+3825,U.S.,references
+3825,Idaho Ag,references
+3825,Washington,references
+3827,Great Lakes National Cemetery,references
+3827,Holly,references
+3827,Howell,references
+3831,United States,references
+3835,Russia,references
+3837,United States,references
+3837,Ukraine,references
+3841,America,references
+3842,Washington,references
+3842,Washington state,references
+3843,Washington,references
+3845,America,references
+3847,America,references
+3849,North Platte,references
+3851,Lincoln County,references
+3851,NE03,references
+3855,U.S.,references
+3860,Conway,references
+3860,AR,references
+3879,America,references
+3883,US,references
+3884,Polk County,references
+3885,Camp Lejeune,references
+3886,FL9,references
+3889,Hurricane Ian,references
+3889,Orange County,references
+3892,Osceola County,references
+3893,Central Florida,references
+3895,Osceola,references
+3899,Florida,references
+3899,Poinciana Parkway,references
+3899,Sunbridge Parkway,references
+3901,Virginia,references
+3901,Seventh District,references
+3902,Virginia,references
+3902,Seventh District,references
+3905,Seventh District,references
+3906,Virginia,references
+3907,Virginia,references
+3908,Virginia,references
+3911,Virginia,references
+3914,Grant County,references
+3914,Grant County,references
+3917,London,references
+3919,Palladium,references
+3919,Carmel,references
+3920,Indianapolis,references
+3921,Indiana,references
+3928,California,references
+3929,CA,references
+3932,Supreme Court,references
+3933,Stansbury,references
+3934,New Mexico,references
+3937,U.S.,references
+3938,New Mexico,references
+3939,Albuquerque,references
+3942,New Mexico,references
+3942,U.S.,references
+3943,NM,references
+3946,Albuquerque,references
+3946,D.C,references
+3950,New Mexico,references
+3954,Mesa,references
+3955,Arizona,references
+3958,Lake Superior,references
+3959,Great Eighth District,references
+3959,Minnesota,references
+3959,Washington,references
+3959,DC,references
+3962,DC,references
+3968,America,references
+3971,Orange County,references
+3976,NY21,references
+3978,Essex County Leathernecks,references
+3978,Crown Point,references
+3978,U.S. Marine Corps,references
+3984,Queensbury,references
+3985,NY21,references
+3986,Queensbury,references
+3986,NY21,references
+3986,North Country,references
+3989,Carthage Area Hospital,references
+3989,Jefferson County,references
+3990,Carthage Area Hospital,references
+3991,China,references
+4000,U.S.,references
+4000,Kenosha County Cente,references
+4004,U.S. Marine Corps,references
+4004,Kenosha,references
+4004,Afghanistan,references
+4006,Oak Creek,references
+4010,Kenosha,references
+4011,Wisconsin,references
+4018,Florida,references
+4018,U.S.,references
+4023,Venice,references
+4024,Florida,references
+4026,FL,references
+4026,17,references
+4026,Charlotte,references
+4026,DeSoto,references
+4026,Glades,references
+4026,Hardee,references
+4026,Highlands,references
+4026,Lee,references
+4026,Okeechobee,references
+4026,Polk,references
+4026,Sarasota,references
+4028,Sarasota County,references
+4028,FL,references
+4029,Sarasota County,references
+4035,West Bloomfield,references
+4037,America,references
+4038,Berlin Wall,references
+4038,United States,references
+4039,Russia,references
+4041,SE,references
+4041,Michigan,references
+4045,America,references
+4050,South Sound,references
+4050,South Sound,references
+4051,SouthSound,references
+4052,Pierce County,references
+4053,Mount Tahoma,references
+4072,Ukraine,references
+4072,Ukraine,references
+4072,Ukraine,references
+4073,America,references
+4076,Russia,references
+4085,America,references
+4088,U.S. Marines,references
+4088,US,references
+4088,Marine Corps,references
+4094,America,references
+4095,Maricopa County,references
+4097,U.S.,references
+4100,Georgia,references
+4100,Georgia,references
+4101,NY,references
+4104,AZ,references
+4106,NY,references
+4106,NY,references
+4108,NY,references
+4109,NY,references
+4109,NY,references
+4111,America,references
+4112,Made,references
+4112,America,references
+4116,New York,references
+4117,NY,references
+4117,DOH,references
+4117,Albany,references
+4118,New York,references
+4121,NY,references
+4121,Hochul,references
+4126,Mississippi,references
+4138,United States,references
+4138,America,references
+4144,Vietnam,references
+4146,California,references
+4158,US,references
+4166,Santa Rosa,references
+4167,Sonoma County,references
+4167,California,references
+4169,U.S.,references
+4170,Eisenhower,references
+4171,California Secretary of State,references
+4175,US,references
+4176,CA,references
+4177,US,references
+4179,Wisconsin,references
+4181,Wisconsin,references
+4181,America,references
+4199,Nevada,references
+4202,Berlin Wall,references
+4202,Central Europe,references
+4207,Nevada,references
+4209,Nevada,references
+4215,Michigan,references
+4217,Egypt,references
+4219,Supreme Court,references
+4232,Guatemala,references
+4232,U.S.,references
+4235,United States,references
+4240,Central America,references
+4240,U.S.,references
+4242,Washington,references
+4242,D,references
+4242,C,references
+4242,Ontario,references
+4243,Pomona,references
+4247,Inland Empire,references
+4251,Inland Empire,references
+4253,CA35,references
+4256,Inland Empire,references
+4260,Inland Empire,references
+4264,Bronx,references
+4264,New York City,references
+4264,NYC,references
+4266,Berlin Wall,references
+4267,New York,references
+4270,New York,references
+4271,Lowell,references
+4271,DC,references
+4273,Chelmsford,references
+4276,Ukraine,references
+4277,Haverhill,references
+4278,Massachusetts,references
+4280,Massachusetts,references
+4281,Massachusetts,references
+4291,Brunswick,references
+4292,Frederick,references
+4293,United States,references
+4300,Illinois,references
+4300,14th District,references
+4306,Joliet,references
+4309,Washington,references
+4312,San Francisco,references
+4312,Hetch Hetchy Valley,references
+4313,Central Valley Sikh,references
+4317,North Richland Hills,references
+4317,Texas,references
+4319,North Texas,references
+4320,America,references
+4320,America,references
+4323,Tarrant,references
+4323,Dallas,references
+4324,Main,references
+4324,Main St,references
+4326,US,references
+4326,Ireland,references
+4326,US,references
+4326,Uk,references
+4329,CA51,references
+4332,TX,references
+4333,North Texas,references
+4336,Fort Worth,references
+4337,Louisiana,references
+4349,FL,references
+4356,FLA,references
+4360,NJ12,references
+4361,California,references
+4361,Vermont,references
+4361,Michigan,references
+4361,Montana,references
+4361,Kentucky,references
+4361,Maryland,references
+4361,Missouri,references
+4362,Florida,references
+4366,Mercer County,references
+4371,New Jersey,references
+4373,New Jersey,references
+4374,U.S. Marine Corps,references
+4381,Montezuma,references
+4381,Tripoli,references
+4383,FL,references
+4384,Berlin Wall,references
+4389,Vermont,references
+4389,U.S.,references
+4397,America,references
+4399,Arkansas,references
+4399,Washington,references
+4399,Arkansas,references
+4399,America,references
+4402,Pine Bluff,references
+4403,Arkansas,references
+4404,Arkansas,references
+4407,Leesburg,references
+4412,PA,references
+4413,Central Ave,references
+4413,Atlanta,references
+4413,GA,references
+4417,Atlanta,references
+4418,Georgia,references
+4419,Kentucky,references
+4419,Vermont,references
+4419,Michigan,references
+4419,Montana,references
+4419,California,references
+4420,Atlanta,references
+4422,Germany,references
+4422,Kristallnacht,references
+4423,Georgia,references
+4423,Georgia,references
+4426,Vermont,references
+4426,Tennessee,references
+4426,Alabama,references
+4427,United States,references
+4428,Georgia,references
+4431,Atlanta,references
+4433,United States,references
+4433,Alabama,references
+4433,Louisiana,references
+4433,Oregon,references
+4433,Tennessee,references
+4433,Vermont,references
+4435,Georgia,references
+4436,Georgia,references
+4437,America,references
+4441,Haiti,references
+4444,Georgia,references
+4448,U.S. House,references
+4448,Florida,references
+4451,South Florida,references
+4451,Miami-Dade,references
+4451,Broward,references
+4455,Florida,references
+4458,Ukraine,references
+4458,Ukraine,references
+4460,U.S. Marine Corps,references
+4465,America,references
+4466,Russellville,references
+4466,Capitol,references
+4467,Bentonville West,references
+4467,America,references
+4482,New York,references
+4484,New York,references
+4488,Alaska,references
+4490,Marine Corps,references
+4491,Parks Act,references
+4492,Alaska,references
+4492,Alaska,references
+4494,National Mall,references
+4494,DC,references
+4494,America,references
+4495,America,references
+4495,America,references
+4501,U.S. Marine Corps,references
+4502,Alabama,references
+4504,Iraq,references
+4506,Pleasant Grove,references
+4506,U.S.,references
+4506,Europe,references
+4508,Madison,references
+4508,AL,references
+4509,Foley,references
+4511,Havana,references
+4511,Alabama,references
+4512,Alabama,references
+4515,America,references
+4519,Sultana Disaster Museum,references
+4519,Marion,references
+4523,Osceola,references
+4523,Mississippi River,references
+4524,Little Rock,references
+4524,Arkansas,references
+4525,America,references
+4528,Fame,references
+4530,America,references
+4532,Arizona,references
+4534,U.S. Marine Corps,references
+4535,U.S. Small Business Administration,references
+4535,Arizona,references
+4538,AZ,references
+4538,U.S.,references
+4539,United States,references
+4540,California,references
+4541,Marine Corps,references
+4542,California,references
+4543,California,references
+4545,Thousand Oaks,references
+4547,California,references
+4555,California,references
+4560,Denver,references
+4561,Colorado,references
+4562,Supreme Court,references
+4563,Washington,references
+4568,Colorado,references
+4569,Supreme Court,references
+4569,Washington,references
+4571,Colorado,references
+4573,Colorado,references
+4577,Colorado,references
+4579,Colorado,references
+4581,Colorado,references
+4583,Colorado,references
+4588,Long Wharf,references
+4588,New Haven,references
+4594,Charter Oak,references
+4594,Hartford,references
+4595,Hartford,references
+4597,Greenwich,references
+4598,Russia,references
+4598,China,references
+4598,Iran,references
+4602,Saudi,references
+4608,Georgia,references
+4609,U.S.,references
+4609,Ukraine,references
+4609,Russia,references
+4610,China,references
+4610,Mexico,references
+4610,U.S.,references
+4611,U.S.,references
+4611,U.S.,references
+4611,Mexico,references
+4613,Mexico,references
+4614,U.S.\n\n1,references
+4615,Georgia,references
+4616,Michigan,references
+4632,Lamont,references
+4632,Canaan,references
+4632,Milford\nMadison,references
+4634,Connecticut,references
+4636,Farmington,references
+4637,Hartford,references
+4637,Connecticut,references
+4638,Hartford,references
+4639,Simsbury,references
+4642,Mexico,references
+4642,China,references
+4642,Fentanyl,references
+4642,U.S.,references
+4642,China,references
+4642,Mexico,references
+4645,Vernon,references
+4650,Bridgeport,references
+4652,New Canaan,references
+4653,leaning S,references
+4658,Avon,references
+4660,Washington,references
+4660,Connecticut,references
+4662,U.S.,references
+4663,Delaware,references
+4665,US House,references
+4665,Delaware,references
+4667,Delaware,references
+4672,Russia,references
+4673,Kherson,references
+4673,Kyiv,references
+4674,Ukraine,references
+4674,Kyiv,references
+4674,Philadelphia,references
+4675,Delaware,references
+4678,Philadelphia,references
+4679,Russia,references
+4679,Kyiv,references
+4681,Kyiv,references
+4681,Ukraine,references
+4682,Kyiv,references
+4682,Ukraine,references
+4682,Ukraine,references
+4682,Russia,references
+4683,Ukraine,references
+4683,Europe,references
+4683,Kyiv,references
+4683,US,references
+4684,Kyiv,references
+4684,America,references
+4686,Florida,references
+4692,Florida,references
+4693,Florida,references
+4694,Florida,references
+4697,America,references
+4698,Hialeah,references
+4698,Florida,references
+4698,America,references
+4698,Sayfie,references
+4699,Orlando,references
+4699,Florida,references
+4702,Jacksonville,references
+4702,Florida,references
+4702,Sayfie,references
+4703,Miami,references
+4703,RedWave,references
+4703,Florida,references
+4704,Ocala,references
+4704,Florida,references
+4704,Sayfie,references
+4707,Naples,references
+4707,Florida,references
+4709,Naples,references
+4709,Washington,references
+4709,Florida,references
+4716,Marine Corps,references
+4721,Hurricane Nicole,references
+4724,Florida Peninsula,references
+4725,Florida coast,references
+4728,Florida,references
+4741,FL,references
+4742,Brevard,references
+4742,Clay,references
+4742,Duval,references
+4742,Flagler,references
+4742,Indian River,references
+4742,Martin,references
+4742,Nassau,references
+4742,Palm,references
+4743,Brevard,references
+4743,Indian River,references
+4743,Martin,references
+4743,Palm Beach,references
+4743,St. Lucie,references
+4743,Volusia Cou,references
+4745,Florida,references
+4748,Florida,references
+4748,East Coast,references
+4750,U.S.,references
+4751,East Florida Coast,references
+4752,Lee County,references
+4752,Pine Island Phillips,references
+4752,Bokeelia,references
+4752,FL,references
+4754,Florida,references
+4755,southwestern Atlantic,references
+4757,Atlantic,references
+4758,Atlantic,references
+4759,Atlantic,references
+4760,Florida,references
+4766,Georgia,references
+4775,Georgia,references
+4792,Minnesota,references
+4803,Macon,references
+4805,Macon,references
+4806,Crooks Beer,references
+4806,Summerhill,references
+4806,Atlanta,references
+4809,Summerhill,references
+4810,Summerhill,references
+4811,Columbus,references
+4811,Georgia,references
+4813,Johns Creek,references
+4814,Georgia,references
+4815,Georgia,references
+4817,Georgia,references
+4819,Georgia,references
+4820,Georgia,references
+4820,Georgia,references
+4821,Georgia,references
+4822,Georgia,references
+4823,Kings Bay,references
+4823,Georgia,references
+4825,Georgia,references
+4826,Augusta,references
+4828,Georgia,references
+4829,Georgia,references
+4830,Georgia,references
+4832,Georgia,references
+4834,Georgia,references
+4836,Hawaii,references
+4838,Hawaii,references
+4838,Pacific region,references
+4839,Hawaii,references
+4841,Tun Tavern,references
+4852,Iowa,references
+4852,Veterans Memorial Hall,references
+4852,Waterloo,references
+4857,EIGHTEEN,references
+4859,Berlin Wall,references
+4859,Eastern Europe,references
+4863,Iowa,references
+4870,Linn,references
+4870,Iowa Counties,references
+4870,VA,references
+4879,Iowa,references
+4879,America,references
+4880,Britain,references
+4880,US,references
+4881,Iowa,references
+4882,Iowa,references
+4883,America,references
+4886,Iowa,references
+4887,Iowa,references
+4894,Idaho,references
+4894,America,references
+4897,America,references
+4899,U.S. \nI,references
+4903,Asia,references
+4907,U.S. Senate,references
+4913,U.S. Marines,references
+4924,IL,references
+4926,Indiana,references
+4928,Indiana,references
+4929,America,references
+4932,Columbus,references
+4932,Columbus,references
+4936,Jefferson County,references
+4936,America,references
+4938,U.S. Marines Corps,references
+4939,Humboldt,references
+4940,Wichita,references
+4942,Pittsburg,references
+4943,Kansas,references
+4946,Morland,references
+4956,Kentucky,references
+4956,Commonweal,references
+4957,Liberty Tree,references
+4959,America,references
+4960,Kentucky,references
+4961,Kentucky,references
+4962,Kentucky,references
+4963,Bowling Green,references
+4965,Owensboro,references
+4966,Louisville,references
+4967,Lexington,references
+4968,Kentucky,references
+4968,Rand,references
+4969,Northern Kentucky,references
+4970,Ashland,references
+4971,Ashland,references
+4975,Greenup County,references
+4975,Ashland Airport,references
+4975,Scott St,references
+4975,Worthington,references
+4975,KY,references
+4978,Worthington,references
+4978,Erlanger,references
+4978,Lexington,references
+4978,Louisville,references
+4978,Owensboro,references
+4978,Paducah,references
+4985,America,references
+4985,America,references
+4986,Louisiana,references
+4987,St. Charles Parish,references
+4989,Florida,references
+4994,Louisiana,references
+5012,Louisiana,references
+5013,America,references
+5014,Melville,references
+5015,Afghanistan,references
+5016,Death Valley,references
+5029,Egypt,references
+5031,Massachusetts,references
+5045,Supreme Court,references
+5045,America,references
+5049,Pakistan,references
+5049,Siberia,references
+5052,America,references
+5052,Paris,references
+5053,Maryland,references
+5053,Fort Detrick,references
+5055,Maryland,references
+5058,Germany,references
+5058,Austria,references
+5060,Maryland,references
+5060,Annapolis,references
+5061,Maryland,references
+5062,Maryland,references
+5063,Maryland,references
+5064,Maryland,references
+5066,Maryland,references
+5068,Maryland,references
+5072,Maryland,references
+5072,Maryland,references
+5073,Maryland,references
+5081,America,references
+5083,Berlin Wall,references
+5083,Ukraine,references
+5085,Maryland,references
+5085,U.S. Senate,references
+5086,Maryland,references
+5087,America,references
+5090,America,references
+5092,Michigan,references
+5093,Michigan,references
+5096,Traverse City,references
+5097,Michigan,references
+5098,Traverse City,references
+5099,Michigan,references
+5103,Great Lakes National Cemetery,references
+5104,America,references
+5109,Michigan,references
+5110,Michigan,references
+5116,Detroit,references
+5120,Mountain Iron,references
+5123,Minnesota,references
+5124,Minnesota,references
+5128,Wall Street,references
+5129,Missouri,references
+5133,Wentzville,references
+5133,Abbey Gate,references
+5133,Afghanistan,references
+5137,China,references
+5138,Big Pharma,references
+5138,Schumer,references
+5142,Missouri,references
+5145,Missouri,references
+5147,St. Louis,references
+5149,Southeastern,references
+5149,Missouri,references
+5149,U.S. Senate,references
+5153,America,references
+5154,Springfield,references
+5154,rom Miss,references
+5158, in Delaware Co,references
+5158,ty,references
+5159,Circleville,references
+5159,OH,references
+5161,America,references
+5162,MS Armed Forces Museum,references
+5162,Camp Shelby,references
+5165,Mississippi,references
+5170,Washington,references
+5175,Greene County Courthouse,references
+5175,U.S. Capitol,references
+5179,Washington,references
+5179,Mississippi,references
+5181,Vicksburg,references
+5186,America,references
+5191,Washington,references
+5206,Ocean Springs,references
+5210,MONTANA,references
+5211,Great Falls,references
+5211,United States,references
+5211,America,references
+5212,Montana,references
+5215,United States,references
+5216,Montana,references
+5217,U.S. House,references
+5217,Montana,references
+5218,U.S. House of Representatives,references
+5218,Montana,references
+5218,Montana,references
+5219,Montana,references
+5220,Montana,references
+5220,Montana,references
+5221,Montana Supreme Court,references
+5222,Montana,references
+5223,Washington,references
+5223,DC,references
+5223,U.S. Senate,references
+5224,Montana,references
+5224,Washington,references
+5224,DC,references
+5226,America,references
+5227,Nevada,references
+5227,Nevada,references
+5229,Montana,references
+5230,Magic City,references
+5231,Magic City,references
+5231,Perkins,references
+5234,America,references
+5237,Bozeman,references
+5242,Supreme Court,references
+5244,America,references
+5245,Montana,references
+5248,Montana,references
+5248,Washington,references
+5249,America,references
+5250,Germany,references
+5250,Lithuania,references
+5250,Poland,references
+5250,Denmark,references
+5250,United States,references
+5250,Ukraine,references
+5251,Rzeszow,references
+5251,Poland,references
+5252,Pabradė,references
+5252,Lithuania,references
+5253,Vilnius,references
+5253,Lithuania,references
+5253,Ukraine,references
+5254,Wiesbaden,references
+5254,Germany,references
+5255,Europe,references
+5255,Ukraine,references
+5255,Russia,references
+5256,Central Europe,references
+5257,Montanans,references
+5257,Washington,references
+5259,U.S.,references
+5261,America,references
+5261,North Carolina,references
+5261,Marine Corps,references
+5263,East,references
+5264,United States,references
+5264,USA,references
+5268,North Dakota,references
+5268,Basin,references
+5269,Marine Corps,references
+5270,U.S.,references
+5272,North Dakota,references
+5273,North Dakotans,references
+5276,CA,references
+5276,NY,references
+5282,North Dakota,references
+5283,ND,references
+5283,Bakken,references
+5283,U.S.,references
+5286,U.S. flag,references
+5286,Williston,references
+5286,U.S. Capitol,references
+5289,Nebraska,references
+5291,U.S. Marine Corps,references
+5296,Veterans Cemetery,references
+5297,Marine Corps,references
+5302,Seabrook,references
+5304,U.S,references
+5309,U.S.,references
+5311,America,references
+5311,NH,references
+5313,Berlin Wall,references
+5314,Washington,references
+5314,D.C,references
+5314,New Hampshire,references
+5319,America,references
+5324,Somersworth,references
+5324,Lincoln,references
+5324,Soldati,references
+5340,Georgia,references
+5347,Jersey,references
+5351,New Hampshire,references
+5351,U.S. Senate,references
+5352,Pennsylvania,references
+5353,Colorado,references
+5354,United States of,references
+5354,America,references
+5359,Wisconsin,references
+5364,Kherson,references
+5364,Kherson,references
+5367,U.S. Army,references
+5370,NJ,references
+5370,America,references
+5371,Morris Plains,references
+5373,NJ,references
+5374,NewJersey,references
+5374,NY,references
+5375,NJ,references
+5380,U.S. Senate,references
+5381,NJ,references
+5382,New Jersey,references
+5387,New Mexico,references
+5387,New Mexico,references
+5388,New Mexico,references
+5389,America,references
+5390,New Mexico,references
+5392,New Mexico,references
+5393,New Mexico,references
+5396,New Mexico,references
+5401,Nevada,references
+5402,Nevada,references
+5404,Nevada,references
+5404,Silver State,references
+5405,Southern Nevada,references
+5406,Silver State,references
+5407,Nevada,references
+5409,Capitol,references
+5412,Nevada,references
+5413,Las Vegas,references
+5413,Reno,references
+5413,DC,references
+5414,Northern Nevada,references
+5416,Las Vegas,references
+5416,Reno,references
+5416,DC,references
+5417,Nevada,references
+5417,Laotian,references
+5418,Nevada,references
+5420,India Diwali Celebration,references
+5420,Las Vegas,references
+5422,Nevada,references
+5429,New York,references
+5430,New York,references
+5433,New York,references
+5433,New York,references
+5434,Kingston,references
+5434,Hudson Valley,references
+5435,New York,references
+5437,America,references
+5438,MAGA,references
+5440,New York,references
+5440,New York,references
+5440,U.S. Senate,references
+5441,Brooklyn,references
+5441,New York,references
+5441,America,references
+5442,New York,references
+5442,America,references
+5445,Ohio,references
+5445,Ohio,references
+5449,Ohio,references
+5450,Ohio,references
+5454,Ukraine,references
+5457,U.S.,references
+5457,Ukraine,references
+5458,Ukraine,references
+5458,U.S.,references
+5459,Russia,references
+5459,Ukraine,references
+5459,U.S.,references
+5460,Ukraine,references
+5462,United States,references
+5463,Montezuma,references
+5463,Tripoli,references
+5463,Marine Corps,references
+5463,United States Marine Corps,references
+5463,OORAH,references
+5465,Washington,references
+5466,Iran,references
+5466,Iran,references
+5466,Iran,references
+5471,United States,references
+5471,Iran,references
+5472,Iran,references
+5475,OklahomaStandard,references
+5481,U.S.,references
+5482,Oregon,references
+5482,Oregon,references
+5483,U.S. Armed Forces,references
+5483,Oregon,references
+5485,Oregon,references
+5487,Oregon,references
+5488,Oregon,references
+5490,Oregon,references
+5493,U.S.,references
+5495,Medford,references
+5496,Oregon,references
+5497,U.S.,references
+5497,Oregon,references
+5497,U.S.,references
+5498,Oregon,references
+5500,Oregon,references
+5501,Ethiopia,references
+5504,Clatsop County,references
+5504,Seaside,references
+5504,Astoria,references
+5505,America,references
+5509,Oregon,references
+5511,Oregon,references
+5513,Oregon,references
+5514,Ukraine,references
+5517,Oregon,references
+5517,U.S. Senate,references
+5517,D.C.,references
+5517,Oregon,references
+5519,Oregon,references
+5523,Oregon,references
+5524,Oregon,references
+5525,Oregon,references
+5526,Oregon,references
+5529,Oregon,references
+5533,Oregon,references
+5541,New Zealand,references
+5546,Oregon,references
+5549,Texas,references
+5549,Oregon,references
+5554,U.S.,references
+5554,Mexico,references
+5555,Oregon,references
+5555,Oregon,references
+5557,Portland,references
+5562,PA,references
+5562,Carbon County,references
+5562,Northeastern,references
+5562,Pennsylvania,references
+5564,Northumberland County,references
+5565,Allentown,references
+5566,Cambria County Airport,references
+5569,Pennsylvania,references
+5570,Pennsylvania,references
+5573,Pennsylvania,references
+5576,Pittsburgh,references
+5580,Pennsylvania,references
+5589,Kensington,references
+5597,Cranston,references
+5605,Providence,references
+5609,Atlantic Theater,references
+5621,US,references
+5627,Providence,references
+5629,Wall Street,references
+5631,America,references
+5633,America,references
+5640,U.S.S.,references
+5640,Rhode Island,references
+5640,Med,references
+5640,Rhode Island,references
+5640,Gibraltar,references
+5650,Nevada,references
+5652,White House,references
+5653,Georgia,references
+5656,County,references
+5656,Florida,references
+5658,Guam,references
+5658,Guam,references
+5661,Kennesaw,references
+5661,States,references
+5664,Rock Hill,references
+5667,US Marine Corps,references
+5679,U.S. military,references
+5679,Hellcats,references
+5679,U.S.S. Intrepid,references
+5679,Pacific theater,references
+5681,South Dakota,references
+5683,Brookings,references
+5683,Rosebud,references
+5684,Brookings,references
+5687,Aurora,references
+5688,Madison,references
+5691,U.S.,references
+5693,Knoxville,references
+5694,Tennessee,references
+5696,Middle East,references
+5696,America,references
+5698,America,references
+5706,USA,references
+5712,Ukraine,references
+5712,White House,references
+5723,Main,references
+5723,America,references
+5725,America,references
+5728,America,references
+5729,America,references
+5730,U.S.,references
+5732,U.S,references
+5735,U.S. diesel,references
+5744,U.S.,references
+5744,America,references
+5745,America,references
+5750,America,references
+5751,U.S.,references
+5753,Washington,references
+5754,U.S.,references
+5757,Laredo,references
+5759,Tennessee,references
+5769,South Texas,references
+5771,Kherson,references
+5780,Texas,references
+5780,Hill Country,references
+5782,China,references
+5783,US,references
+5783,US,references
+5787,Georgia,references
+5791,Texas,references
+5791,Chicago,references
+5791,Texas,references
+5798,Russia,references
+5798,Ukraine,references
+5799,Florida,references
+5801,Clark County,references
+5802,Florida,references
+5804,Georgia,references
+5805,Wisconsin,references
+5806,Iowa,references
+5806,America,references
+5807,Utah,references
+5807,Utah,references
+5809,Texas,references
+5811,TX38,references
+5811,Houston,references
+5811,Texas,references
+5816,Capitol Dome,references
+5822,America,references
+5830,Texas,references
+5834,Russia,references
+5834,Ukraine,references
+5835,Lake Michigan,references
+5837,U.S.,references
+5838,Supreme Court,references
+5839,Miami-Dade County,references
+5844,Nueces County,references
+5845,California,references
+5846,Houston,references
+5853,Japan,references
+5853,Britain,references
+5853,China,references
+5858,United States,references
+5858,United States,references
+5862,America,references
+5864,East Texas,references
+5869,Afghanistan,references
+5869,China,references
+5869,Russia,references
+5870,America,references
+5873,America,references
+5876,Venezuela,references
+5881,U.S.,references
+5892,Virginia House,references
+5894,Virginia,references
+5895,Virginians,references
+5896,Virginia,references
+5896,Woodbridge,references
+5897,Virginia,references
+5898,Virginia,references
+5900,Virginia,references
+5901,Ashburn,references
+5901,Va,references
+5903,North Carolina,references
+5907,Southwest,references
+5907,Southside,references
+5907,Virginia,references
+5908,US,references
+5908,Marine Corps,references
+5915,Richmond,references
+5915,Ukraine,references
+5916,Ukraine,references
+5920,PA,references
+5920,NM,references
+5924,Nevada,references
+5924,PA,references
+5929,Burlington,references
+5929,VT,references
+5932,South Burlington,references
+5935,Brandon,references
+5935,VT,references
+5939,Phenom Penh,references
+5941,St. Albans,references
+5941,Vermont,references
+5942,Washington state,references
+5943,Tri-Cities,references
+5944,Washington state,references
+5945,U.S. Armed Forces,references
+5946,Grays Harbor,references
+5946,Seattle,references
+5946,Olympia,references
+5946,Port Angeles,references
+5947,Washington state,references
+5948,U.S. Forest Service,references
+5955,America,references
+5956,Washington,references
+5958,West Coast,references
+5958,California,references
+5958,Nevada,references
+5958,Oregon,references
+5958,Washington,references
+5961,Washington state,references
+5961,U.S. Senate,references
+5964,Washington state,references
+5966,America,references
+5968,Washington state,references
+5972,Wisconsin,references
+5973,Wisconsin,references
+5975,Wisconsin,references
+5975,Ingeteam,references
+5975,Milwaukee,references
+5978,Wisconsin,references
+5982,Wisconsin,references
+5984,Lake Winnebago,references
+5984,Oshkosh,references
+5985,West Virginia,references
+5985,Raleigh County,references
+5987,Huntington,references
+5988,Egypt,references
+5990,West Virginia,references
+5997,West Virginia,references
+5999,West Virginia,references
+6000,National,references
+6004,West Virginians,references
+6005,Biden White House,references
+6007,America,references
+6010,West Virginians,references
+6012,Gassaway,references
+6012,Braxton County,references
+6014,West Virginia,references
+6014,West Virginians,references
+6015,Farmington,references
+6015,WV,references
+6015,St. Peter the Apostle Parish,references
+6016,West Virginian,references
+6016,West Virginians,references
+6021,America,references
+6023,Wyoming,references
+6023,Washington,references
+6024,Wyoming,references
+6025,Wyoming,references
+6025,United States,references
+6026,Rock Springs,references
+6027,Wyoming,references
+6030,Wyoming,references
